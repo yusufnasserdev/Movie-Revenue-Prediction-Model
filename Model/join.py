@@ -1,6 +1,4 @@
-import numpy as np
 import pandas as pd
-import sklearn as sk
 
 # reading csv files
 movies_base = pd.read_csv('datasets/movies-revenue.csv')
