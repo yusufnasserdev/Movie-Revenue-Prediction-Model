@@ -23,10 +23,10 @@ actors_freq = voice_actors['title'].value_counts()
 
 for i, mov in movies_revenue.iterrows():
     try:
-        movies_revenue.iat[i, 7] = actors_freq[mov['title']]
+        movies_revenue.iat[i, 6] = actors_freq[mov['title']]
         movies_revenue.iat[i, 8] = 1
     except:
-        movies_revenue.iat[i, 7] = 0
+        movies_revenue.iat[i, 6] = 0
         movies_revenue.iat[i, 8] = 0
 
 movies_revenue.to_csv('datasets/movies-revenue.csv')

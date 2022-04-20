@@ -20,7 +20,7 @@ movies['DirectorPop'] = np.nan
 for i, mov in movies.iterrows():
     search = person.search(mov['director'])  # Search by the movie title
     for res in search:
-        movies.iat[i, 9] = res['popularity']
+        movies.iat[i, 7] = res['popularity']
         break
 
 movies.to_csv('datasets/movies-revenue.csv')
