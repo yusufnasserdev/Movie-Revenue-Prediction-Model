@@ -30,5 +30,8 @@ poly_model = linear_model.LinearRegression()
 poly_model.fit(X_train_poly, Y_train)
 Y_test_predicted = poly_model.predict(poly_features.transform(X_test))
 prediction = poly_model.predict(poly_features.fit_transform(X_test))
+y_train_predicted = poly_model.predict(X_train_poly)
+train_err = metrics.mean_squared_error(Y_train, y_train_predicted)
 
+print('Train subset (MSE) for degree {}: ', train_err)
 print('Mean Square Error', metrics.mean_squared_error(Y_test, Y_test_predicted))
