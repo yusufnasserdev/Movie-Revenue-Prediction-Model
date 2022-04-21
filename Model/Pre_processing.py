@@ -2,13 +2,6 @@ from sklearn.preprocessing import LabelEncoder
 import numpy as np
 
 
-def Feature_Encoder(X, cols):
-    for c in cols:
-        lbl = LabelEncoder()
-        lbl.fit(list(X[c].values))
-        X[c] = lbl.transform(list(X[c].values))
-    return X
-
 
 def featureScaling(X, a, b):
     X = np.array(X)
