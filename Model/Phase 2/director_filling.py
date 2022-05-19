@@ -38,8 +38,8 @@ for i, mov in movies.iterrows():
                     for z in movie.credits(res.id)['crew']:
                         if z['job'] == 'Director':
                             # Editing the value at the original dataframe
-                            movies.iat[i, 5] = z['name']
-                            movies.iat[i, 6] = z['popularity']
+                            movies.at[i, 'director'] = z['name']
+                            movies.at[i, 'director_pop'] = z['popularity']
                             break
             except BaseException as error:
                 print('An exception occurred: {}'.format(error) + " " + mov['movie_title'])

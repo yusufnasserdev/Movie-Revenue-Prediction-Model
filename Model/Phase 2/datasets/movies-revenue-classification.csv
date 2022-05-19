@@ -1,464 +1,464 @@
-,movie_title,release_date,genre,MPAA_rating,MovieSuccessLevel,director,director_pop,ActorsAvg
-0,Recess: School's Out,2/16/2001,Comedy,G,C,,,
-1,D2: The Mighty Ducks,3/25/1994,Comedy,PG,B,Sam Weisman,1.52,
-2,Home on the Range,4/2/2004,Comedy,PG,C,Will Finn,0.635,8.2235
-3,Young Black Stallion,12/25/2003,Adventure,G,D,Simon Wincer,6.723,
-4,What's Love Got to Do With It,6/9/1993,Drama,R,B,Brian Gibson,0.6,
-5,Lady and the Tramp,6/22/2055,Drama,G,S,Hamilton Luske,,1.5072727272727278
-6,Corky Romano,10/12/2001,Comedy,PG-13,C,Rob Pritts,0.6,
-7,The Waterboy,11/6/1998,Comedy,PG-13,A,Frank Coraci,3.888,
-8,Captain America: The Winter Soldier,4/4/2014,Action,PG-13,A,,,
-9,Pirates of the Caribbean: Dead Man’…,7/7/2006,Adventure,PG-13,S,Gore Verbinski,4.843,
-10,Ladder 49,10/1/2004,Action,PG-13,B,Jay Russell,0.667,
-11,Coyote Ugly,8/4/2000,Drama,PG-13,B,,,
-12,The Sixth Man,3/28/1997,Comedy,PG-13,C,Randall Miller,0.84,
-13,Dick Tracy,6/15/1990,Action,PG,A,,,
-14,Sister Act 2 Back in the Habit,12/10/1993,Comedy,PG,B,Bill Duke,6.304,
-15,DuckTales: The Movie - Treasure of th…,8/3/1990,Adventure,G,C,,,
-16,Blame it on the Bellboy,3/6/1992,Comedy,PG-13,D,Mark Herman,0.961,
-17,The Hunchback of Notre Dame,6/21/1996,Adventure,G,B,Gary Trousdale,3.308,5.404181818181818
-18,Ernest Goes to Jail,4/6/1990,Comedy,PG,C,John R. Cherry III,1.676,
-19,Ant-Man,7/17/2015,Action,PG-13,B,Peyton Reed,1.928,
-20,The Shaggy Dog,3/10/2006,Comedy,PG,B,Brian Robbins,1.338,
-21,The Life Aquatic with Steve Zissou,12/10/2004,Comedy,R,C,Wes Anderson,8.151,
-22,Bridge to Terabithia,2/16/2007,Drama,PG,B,Gábor Csupó,1.191,
-23,Beauty and the Beast,11/13/1991,Musical,G,A,Gary Trousdale,,
-24,Miami Rhapsody,1/27/1995,Romantic Comedy,PG-13,D,David Frankel,0.785,
-25,A Bug's Life,11/20/1998,Adventure,G,A,John Lasseter,4.693,
-26,3 Men and a Little Lady,11/21/1990,Comedy,PG,B,Emile Ardolino,4.922,
-27,The Puppet Masters,10/21/1994,Horror,R,D,Stuart Orme,0.6,
-28,Signs,8/2/2002,Thriller/Suspense,PG-13,A,M. Night Shyamalan,8.849,
-29,Dead Presidents,10/4/1995,Drama,R,C,Albert Hughes,3.681,
-30,"McFarland, USA",2/20/2015,Drama,PG,C,Niki Caro,1.835,
-31,George Of The Jungle,7/16/1997,Comedy,PG,B,Sam Weisman,1.52,
-32,Bound by Honor,4/16/1993,,R,D,,,
-33,The Avengers,5/4/2012,Action,PG-13,S,,,
-34,Ten Things I Hate About You,3/31/1999,Romantic Comedy,PG-13,C,Gil Junger,3.76,
-35,Earth,4/22/2009,Documentary,G,C,,,
-36,Hello Again,11/6/1987,Comedy,,C,Frank Perry,0.6,
-37,When a Man Loves a Woman,4/29/1994,Drama,R,B,Luis Mandoki,0.84,
-38,Unbreakable,11/22/2000,Thriller/Suspense,PG-13,B,M. Night Shyamalan,8.849,
-39,3 Men and a Baby,11/25/1987,Comedy,PG,A,Leonard Nimoy,6.062,
-40,X Games 3D: The Movie,8/21/2009,Documentary,PG,D,Steven Lawrence,0.6,
-41,Cars 2,6/24/2011,Adventure,G,A,John Lasseter,4.693,
-42,The Princess Diaries 2: Royal Engagement,8/11/2004,Romantic Comedy,G,B,Gidion Phillips,0.6,
-43,The Jungle Book 2,2/14/2003,Adventure,G,C,Steve Trenbirth,0.6,
-44,Aspen Extreme,1/22/1993,Romantic Comedy,PG-13,D,Patrick Hasburgh,1.4,
-45,Noises Off...,3/20/1992,Comedy,PG-13,D,Peter Bogdanovich,5.723,
-46,He Got Game,5/1/1998,Drama,R,C,Spike Lee,5.116,
-47,Bringing Down the House,3/7/2003,Comedy,PG-13,B,Adam Shankman,2.069,
-48,Bon Voyage!,5/17/2062,Comedy,Not Rated,B,,,
-49,Doctor Strange,11/4/2016,Adventure,PG-13,A,,,
-50,Flubber,11/26/1997,Comedy,PG,B,Les Mayfield,2.115,
-51,Roving Mars,1/27/2006,Documentary,G,D,George Butler,0.917,
-52,Captain Ron,9/18/1992,Comedy,PG-13,C,Thom Eberhardt,1.296,
-53,Shadow Conspiracy,1/31/1997,Thriller/Suspense,R,D,George P. Cosmatos,2.841,
-54,Good Morning Vietnam,12/23/1987,Comedy,R,A,Barry Levinson,4.33,
-55,Babes in Toyland,12/14/2061,Musical,G,B,,,
-56,An Innocent Man,10/6/1989,Drama,R,C,Peter Yates,1.185,
-57,Summer of Sam,7/2/1999,Drama,R,C,Spike Lee,5.116,
-58,The Good Dinosaur,11/25/2015,Adventure,PG,B,Peter Sohn,3.161,
-59,Angels in the Outfield,7/15/1994,Comedy,PG,B,William Dear,1.535,
-60,Tough Guys,10/3/1986,Comedy,,C,Jeff Kanew,2.131,
-61,Something Wicked This Way Comes,4/29/1983,Horror,,D,Jack Clayton,1.176,
-62,The Rocketeer,6/21/1991,Action,PG,B,Joe Johnston,5.45,
-63,Stakeout,8/5/1987,Comedy,R,B,John Badham,2.835,
-64,National Treasure 2: Book of Secrets,12/21/2007,Adventure,PG,A,Jon Turteltaub,3.603,
-65,Terminal Velocity,9/23/1994,Action,PG-13,C,Deran Sarafian,2.799,
-66,Apocalypto,12/8/2006,Adventure,R,C,Mel Gibson,27.288,
-67,Invincible,8/25/2006,Drama,PG,B,Ericson Core,1.565,
-68,25th Hour,12/19/2002,Drama,R,D,Spike Lee,5.116,
-69,Mighty Joe Young,12/25/1998,Adventure,PG,B,Ron Underwood,1.948,
-70,Deceived,9/27/1991,Thriller/Suspense,PG-13,C,Damian Harris,0.6,
-71,Never Cry Wolf,10/7/1983,Drama,,B,Carroll Ballard,0.828,
-72,G-Force,7/24/2009,Adventure,PG,B,Hoyt Yeatman,2.63,
-73,Feast of July,10/13/1995,Drama,R,D,Christopher Menaul,0.94,
-74,The Lookout,3/30/2007,Drama,R,D,Scott Frank,8.517,
-75,Cool Runnings,10/1/1993,Comedy,PG,B,Jon Turteltaub,3.603,
-76,Alice Through the Looking Glass,5/27/2016,Adventure,PG,B,James Bobin,1.478,
-77,The Devil and Max Devlin,1/1/1981,,,C,,,
-78,The Chronicles of Narnia: Prince Caspian,5/16/2008,Adventure,PG,B,Andrew Adamson,4.804,
-79,The Insider,11/5/1999,Drama,R,C,,,
-80,Camp Nowhere,8/26/1994,Comedy,PG,C,Jonathan Prince,1.4,
-81,The Rock,6/7/1996,Action,R,A,Gary J. Tunnicliffe,1.411,
-82,Green Card,12/25/1990,Romantic Comedy,PG-13,C,Peter Weir,2.235,
-83,Real Steel,10/7/2011,Action,PG-13,B,,,
-84,A Kid in King Arthur's Court,8/11/1995,Adventure,PG,C,Michael Gottlieb,1.62,
-85,The Last Flight of Noah’s Ark,6/25/1980,,,C,Charles Jarrott,0.608,
-86,African Cats,4/22/2011,Documentary,G,D,Alastair Fothergill,1.094,
-87,Toy Story 3D Double Feature,10/2/2009,Adventure,G,C,,,
-88,Into the Woods,12/25/2014,Musical,PG,B,Rob Marshall,1.254,
-89,Finding Nemo,5/30/2003,Adventure,G,S,Andrew Stanton,6.106,
-90,The Good Mother,11/4/1988,Drama,,D,Leonard Nimoy,6.062,
-91,The Hundred-Foot Journey,8/8/2014,Romantic Comedy,PG,C,Lasse Hallström,1.688,
-92,Pearl Harbor,5/25/2001,Action,PG-13,A,Michael Rosenfeld,0.608,
-93,Pirates of the Caribbean: At World’…,5/24/2007,Adventure,PG-13,A,Gore Verbinski,4.843,
-94,Color of Night,8/19/1994,Thriller/Suspense,R,C,Richard Rush,0.6,
-95,Romy and Michele's High School Reunion,4/25/1997,Comedy,R,C,David Mirkin,1.149,
-96,Cheetah,8/18/1989,Adventure,,D,Jeff Blyth,0.6,
-97,Jack,8/9/1996,Drama,PG-13,B,Francis Ford Coppola,9.576,
-98,Monsters University,6/21/2013,Adventure,G,A,Dan Scanlon,2.265,
-99,The Fifth Estate,10/18/2013,Drama,R,D,Bill Condon,4.642,
-100,Before and After,2/23/1996,Drama,PG-13,D,Barbet Schroeder,0.716,
-101,Moonlight Mile,9/27/2002,Drama,PG-13,D,Brad Silberling,2.286,
-102,A Stranger Among Us,7/17/1992,Drama,PG-13,C,Sidney Lumet,2.183,
-103,The Lizzie McGuire Movie,5/2/2003,Comedy,PG,C,Jim Fall,1.193,
-104,Krippendorf's Tribe,2/27/1998,Comedy,PG-13,D,Todd Holland,3.026,
-105,crazy/beautiful,6/29/2001,Drama,PG-13,C,John Stockwell,4.363,
-106,Adventures in Babysitting,7/3/1987,Comedy,,B,Chris Columbus,4.321,
-107,The Game Plan,9/22/2007,Comedy,PG,B,Andy Fickman,1.615,
-108,Splash,3/9/1984,Comedy,PG,B,Ron Howard,5.634,
-109,Who Framed Roger Rabbit?,6/22/1988,Comedy,PG,A,Robert Zemeckis,8.964,
-110,The Light Between Oceans,9/2/2016,Drama,PG-13,D,Derek Cianfrance,0.98,
-111,The Guardian,9/29/2006,Action,PG-13,B,Mark J. Doddy,0.608,
-112,The Sword in the Stone,12/25/1963,Adventure,,B,Wolfgang Reitherman,2.833,3.9452
-113,Mr. Holland's Opus,12/29/1995,Drama,PG,B,Stephen Herek,3.184,
-114,The Rescuers Down Under,11/16/1990,Adventure,G,C,Mike Gabriel,1.22,5.300749999999999
-115,The Preacher's Wife,12/13/1996,Drama,PG,B,Penny Marshall,2.076,
-116,Sarafina!,9/18/1992,Drama,PG-13,D,Darrell James Roodt,0.6,
-117,Trenchcoat,3/11/1983,Comedy,,D,Michael Tuchner,1.4,
-118,Confessions of a Teenage Drama Queen,2/20/2004,Comedy,PG,C,Sara Sugarman,2.624,
-119,Around the World in 80 Days,6/16/2004,Adventure,PG,C,Frank Coraci,3.888,
-120,Blaze,12/13/1989,Drama,R,C,Ron Shelton,2.801,
-121,Toy Story,11/22/1995,Adventure,G,A,,,
-122,Prince of Persia: Sands of Time,5/28/2010,Action,PG-13,B,Mike Newell,3.899,
-123,Eddie,5/31/1996,Comedy,PG-13,C,Steve Rash,1.631,
-124,White Fang 2: Myth of the White Wolf,4/15/1994,Adventure,PG,D,Ken Olin,4.221,
-125,White Squall,2/2/1996,Adventure,PG-13,D,Ridley Scott,5.031,
-126,The Invisible,4/27/2007,Thriller/Suspense,PG-13,C,David S. Goyer,7.974,
-127,Guilty as Sin,6/4/1993,Thriller/Suspense,R,C,Sidney Lumet,2.183,
-128,Operation Dumbo Drop,7/28/1995,Adventure,PG,C,Simon Wincer,6.723,
-129,Ghosts of the Abyss,4/11/2003,Documentary,G,C,James Cameron,7.333,
-130,Scenes from a Mall,2/22/1991,Comedy,,D,Paul Mazursky,1.263,
-131,The BFG,7/1/2016,Adventure,PG,C,,,
-132,Tron,7/9/1982,Action,,B,Steven Lisberger,1.4,
-133,Firelight,9/4/1998,Drama,R,D,,,
-134,Delivery Man,11/22/2013,Comedy,PG-13,C,,,
-135,New York Stories,3/1/1989,Drama,PG,C,Francis Ford Coppola,9.576,
-136,Disorganized Crime,4/14/1989,Comedy,,D,Jim Kouf,1.295,
-137,Tom and Huck,12/22/1995,Adventure,PG,C,Peter Hewitt,1.253,
-138,Keeping the Faith,4/14/2000,Romantic Comedy,PG-13,C,Edward Norton,11.573,
-139,Grosse Pointe Blank,4/11/1997,Black Comedy,R,C,George Armitage,0.6,
-140,Indian Summer,4/23/1993,Comedy,R,C,Mike Binder,2.396,
-141,The Princess and the Frog,11/25/2009,Adventure,G,B,Ron Clements,,4.827277777777777
-142,Billy Bathgate,11/1/1991,Drama,R,C,Robert Benton,1.844,
-143,3 Ninjas Kick Back,5/6/1994,Action,PG,C,Charles T. Kanganis,1.216,
-144,My Boyfriend's Back,8/6/1993,,PG-13,D,Bob Balaban,9.484,
-145,Goal! The Dream Begins,5/12/2006,Drama,PG,D,,,
-146,Country,9/29/1984,Drama,,C,,,
-147,Big Trouble,4/5/2002,Comedy,PG-13,D,Barry Sonnenfeld,5.493,
-148,People Like Us,6/29/2012,Drama,PG-13,D,Alex Kurtzman,6.597,
-149,Mars Needs Moms,3/11/2011,Adventure,PG,C,Simon Wells,2.885,
-150,Angie,3/4/1994,Comedy,R,D,Martha Coolidge,1.576,
-151,Deuce Bigalow: Male Gigolo,12/10/1999,Comedy,R,B,Mike Mitchell,3.233,
-152,Veronica Guerin,10/17/2003,Drama,R,D,,,
-153,Max Keeble's Big Move,10/5/2001,Comedy,PG,C,Tim Hill,3.627,
-154,The Scarlet Letter,10/13/1995,Drama,R,C,Roland Joffé,0.777,
-155,D3: The Mighty Ducks,10/4/1996,Comedy,PG,C,Rob Lieberman,0.762,
-156,Up,5/29/2009,Adventure,PG,A,Pete Docter,10.161,
-157,Alive,1/15/1993,Adventure,R,B,Frank Marshall,3.398,
-158,Can't Buy Me Love,8/14/1987,Romantic Comedy,,C,Steve Rash,1.631,
-159,The Hoax,4/6/2007,Drama,R,D,,,
-160,Fantasia,11/13/1940,Musical,G,S,David Hand,2.951,6.019166666666666
-161,Crimson Tide,5/12/1995,Action,R,B,Tony Scott,4.126,
-162,Ransom,11/8/1996,Action,R,A,Ron Howard,5.634,
-163,Pretty Woman,3/23/1990,Romantic Comedy,R,A,Garry Marshall,3.741,
-164,Inspector Gadget,7/23/1999,Comedy,PG,B,David Kellogg,0.829,
-165,Winnie the Pooh,7/15/2011,Adventure,G,C,Stephen J. Anderson,,
-166,The Tigger Movie,2/11/2000,Adventure,G,B,Jun Falkenstein,1.068,
-167,Heavy Weights,2/17/1995,Comedy,PG,C,Steven Brill,3.574,
-168,What About Bob?,5/17/1991,Comedy,PG,B,Frank Oz,6.202,
-169,Condorman,8/7/1981,Action,,D,,,
-170,The Haunted Mansion,11/26/2003,Comedy,PG,B,Rob Minkoff,2.269,
-171,The Hitchhiker's Guide to the Galaxy,4/29/2005,Comedy,PG,C,Garth Jennings,5.73,
-172,Bedknobs and Broomsticks,10/7/1971,Musical,,B,Robert Stevenson,1.531,2.1795
-173,Pooh's Heffalump Movie,2/11/2005,Adventure,G,C,Frank Nissen,1.231,2.1399999999999997
-174,Open Range,8/15/2003,Western,R,B,Kevin Costner,19.452,
-175,D.O.A.,3/18/1988,Thriller/Suspense,,C,Annabel Jankel,0.84,
-176,Meet the Deedles,3/27/1998,Comedy,PG,D,Steve Boyum,0.949,
-177,A Beautiful Planet,4/29/2016,Documentary,G,D,Toni Myers,0.6,
-178,Sister Act,5/29/1992,Comedy,PG,A,Emile Ardolino,4.922,
-179,Strange Magic,1/23/2015,Adventure,PG,D,Gary Rydstrom,1.836,
-180,The Many Adventures of Winnie the Pooh,3/11/1977,,,D,Wolfgang Reitherman,2.833,
-181,Quiz Show,9/14/1994,Drama,PG-13,C,,,
-182,While You Were Sleeping,4/21/1995,Romantic Comedy,PG,B,Jon Turteltaub,3.603,
-183,Bedtime Stories,12/25/2008,Comedy,PG,B,Adam Shankman,2.069,
-184,"The Chronicles of Narnia: The Lion, t…",12/9/2005,Adventure,PG,A,,,
-185,Instinct,6/4/1999,Drama,R,C,Jon Turteltaub,3.603,
-186,Step Up,8/11/2006,Drama,PG-13,B,Anne Fletcher,3.496,
-187,G.I. Jane,8/22/1997,Drama,R,B,Ridley Scott,5.031,
-188,Oscar,4/26/1991,Comedy,PG,C,John Landis,1.564,
-189,The Parent Trap,7/29/1998,Comedy,PG,B,Nancy Meyers,3.765,
-190,Primeval,1/12/2007,Adventure,R,D,Michael Katleman,2.332,
-191,The Lone Ranger,7/2/2013,Western,PG-13,B,Gore Verbinski,4.843,
-192,"Monsters, Inc.",11/2/2001,Adventure,G,A,Pete Docter,10.161,
-193,Reign of Fire,2/19/2002,Action,PG-13,C,,,
-194,Running Brave,11/4/1983,Drama,,D,Donald Shebib,0.6,
-195,Dinosaur,5/19/2000,Adventure,PG,A,Ralph Zondag,0.656,5.481000000000001
-196,Rushmore,12/11/1998,Black Comedy,R,C,Wes Anderson,8.151,
-197,Freaky Friday,1/21/1977,Comedy,,B,,,
-198,The 13th Warrior,8/27/1999,Action,R,C,John McTiernan,4.741,
-199,Brave,6/22/2012,Adventure,PG,A,Brenda Chapman,2.269,
-200,Eight Below,2/17/2006,Adventure,PG,B,Frank Marshall,3.398,
-201,Gake no ue no Ponyo,8/14/2009,Adventure,G,D,,,
-202,Queen of Katwe,9/23/2016,Drama,PG,D,Mira Nair,1.96,
-203,Straight Talk,4/3/1992,Comedy,PG,C,Barnet Kellman,0.6,
-204,Holy Man,10/9/1998,Comedy,PG,C,Stephen Herek,3.184,
-205,The Sorcerer's Apprentice,7/14/2010,Adventure,PG,C,Jon Turteltaub,3.603,
-206,Stella,2/2/1990,Drama,PG-13,C,John Erman,0.98,
-207,An American Werewolf in Paris,12/25/1997,Horror,R,C,,,
-208,The Mighty Ducks,10/2/1992,Comedy,PG,B,Stephen Herek,3.184,
-209,Tall Tale,3/24/1995,Western,PG,D,Jeremiah S. Chechik,2.888,
-210,Tangled,11/24/2010,Adventure,PG,A,Byron Howard,2.596,9.636285714285716
-211,Ed Wood,9/30/1994,Comedy,R,D,Tim Burton,10.14,
-212,The Jerky Boys,2/3/1995,Comedy,R,D,James Melkonian,1.553,
-213,The Rich Man's Wife,9/13/1996,Thriller/Suspense,R,D,Amy Holden Jones,2.407,
-214,"20,000 Leagues Under the Sea",12/23/2054,Adventure,,S,,,
-215,Super Mario Bros.,5/28/1993,Action,PG,C,Annabel Jankel,0.84,
-216,The Proposal,6/19/2009,Romantic Comedy,PG-13,B,Anne Fletcher,3.496,
-217,Race to Witch Mountain,3/13/2009,Adventure,PG,B,Andy Fickman,1.615,
-218,The Adventures of Huck Finn,4/2/1993,Adventure,PG,C,Stephen Sommers,1.724,
-219,Jefferson in Paris,3/31/1995,Drama,PG-13,D,James Ivory,3.745,
-220,The Jungle Book,4/15/2016,Adventure,PG,A,Vitaliy Versace,0.759,
-221,Sky High,7/29/2005,Adventure,PG,B,Mike Mitchell,3.233,
-222,Toy Story 2,11/19/1999,Adventure,G,A,,,
-223,The Rescuers,6/22/1977,Adventure,,B,Wolfgang Reitherman,2.833,
-224,Remember the Titans,9/29/2000,Drama,PG,B,Boaz Yakin,7.813,
-225,A Lot Like Love,4/22/2005,Comedy,PG-13,C,Nigel Cole,1.646,
-226,3 Ninjas,8/7/1992,Action,PG,C,Jon Turteltaub,3.603,
-227,Flight of the Navigator,7/30/1986,Adventure,,C,Randal Kleiser,1.4,
-228,America's Heart and Soul,7/2/2004,Documentary,Not Rated,D,Louis Schwartsberg,0.6,
-229,Swing Vote,8/1/2008,Comedy,PG-13,D,Joshua Michael Stern,1.4,
-230,The Straight Story,10/15/1999,Drama,G,D,David Lynch,6.755,
-231,The Kid,7/7/2000,Comedy,PG,B,Jon Turteltaub,3.603,
-232,Enchanted,11/21/2007,Romantic Comedy,PG,B,Kevin Lima,2.904,14.144416666666666
-233,Zootopia,3/4/2016,Adventure,PG,A,Byron Howard,,
-234,I'll Be Home For Christmas,11/13/1998,Comedy,PG,C,Arlene Sanford,0.734,
-235,The War at Home,11/20/1996,,R,D,Emilio Estevez,6.855,
-236,Peter Pan: Return to Neverland,2/15/2002,Adventure,G,B,Robin Budd,0.6,
-237,Ratatouille,6/29/2007,Comedy,G,A,Brad Bird,9.443,
-238,Secretariat,10/8/2010,Drama,PG,C,,,
-239,Medicine Man,2/7/1992,Drama,PG-13,B,John McTiernan,4.741,
-240,A Thousand Acres,9/19/1997,Drama,R,D,Jocelyn Moorhouse,1.652,
-241,Mission to Mars,3/10/2000,Adventure,PG,B,Brian De Palma,3.709,
-242,Brother Bear,10/24/2003,Adventure,G,B,Aaron Blaise,1.62,6.289571428571429
-243,Snow White and the Seven Dwarfs,12/21/1937,Musical,G,S,David Hand,2.951,1.99975
-244,Toy Story 3,6/18/2010,Adventure,G,A,Lee Unkrich,3.458,
-245,Miracle,2/6/2004,Drama,PG,B,Gavin O'Connor,2.842,
-246,My Favorite Martian,2/12/1999,Comedy,PG,C,Donald Petrie,3.564,
-247,Benji the Hunted,6/5/1987,Adventure,,C,Joe Camp,0.648,
-248,A Far Off Place,3/12/1993,Adventure,PG,C,Mikael Salomon,1.22,
-249,Old Dogs,11/25/2009,Comedy,PG,C,Walt Becker,1.239,
-250,Alice in Wonderland,3/5/2010,Adventure,PG,A,Tim Burton,10.14,2.9080000000000004
-251,The Little Mermaid,11/15/1989,Adventure,G,A,Ron Clements,2.792,5.514224999999999
-252,Stick It,4/28/2006,Comedy,PG-13,C,Jessica Bendinger,0.6,
-253,Funny Bones,3/31/1995,Comedy,R,D,,,
-254,Cars,6/9/2006,Comedy,G,A,John Lasseter,4.693,
-255,Bicentennial Man,12/17/1999,Drama,PG,B,Chris Columbus,4.321,
-256,Chimpanzee,4/20/2012,Documentary,G,C,Alastair Fothergill,1.094,
-257,The Apple Dumpling Gang,7/1/1975,Comedy,,B,Norman Tokar,1.4,
-258,The Other Sister,2/26/1999,Romantic Comedy,PG-13,C,Garry Marshall,3.741,
-259,A Simple Twist of Fate,9/2/1994,Drama,PG-13,D,Gillies MacKinnon,1.052,
-260,Where the Heart Is,2/23/1990,Comedy,,D,John Boorman,2.004,
-261,Kaze Tachinu,11/8/2013,Drama,PG-13,D,,,
-262,Off Beat,4/11/1986,Comedy,,D,Michael Dinner,1.67,
-263,The Greatest Game Ever Played,9/30/2005,Drama,PG,C,Bill Paxton,13.989,
-264,The Three Musketeers,11/12/1993,Adventure,PG,B,Stephen Herek,3.184,
-265,A Civil Action,12/25/1998,Drama,PG-13,B,Steven Zaillian,2.173,
-266,Walt and El Grupo,9/10/2009,Documentary,PG,D,,,
-267,Powder,10/27/1995,Drama,PG-13,C,Victor Salva,5.386,
-268,1492: Conquest of Paradise,10/9/1992,Adventure,PG-13,D,Ridley Scott,5.031,
-269,The Cemetery Club,2/3/1993,Comedy,PG-13,D,Bill Duke,6.304,
-270,Stay Alive,3/24/2006,Horror,PG-13,C,William Brent Bell,2.941,
-271,That Darn Cat,2/14/1997,Comedy,PG,C,Bob Spiers,1.096,
-272,The Muppet Christmas Carol,12/11/1992,Comedy,G,C,Brian Henson,1.117,
-273,Step Up 2 the Streets,2/14/2008,Drama,PG-13,C,Jon M. Chu,1.229,
-274,Fantasia 2000 (Theatrical Release),6/16/2000,Musical,G,D,,,
-275,The Santa Clause 2,11/1/2002,Comedy,G,A,,,
-276,The Recruit,1/31/2003,Thriller/Suspense,PG-13,B,Roger Donaldson,2.313,
-277,Money for Nothing,9/10/1993,Comedy,R,D,Ramón Menéndez,0.6,
-278,Bad Company,1/20/1995,Thriller/Suspense,R,D,Damian Harris,0.6,
-279,I Love Trouble,6/29/1994,Romantic Comedy,PG,C,Charles Shyer,1.545,
-280,The Absent Minded Professor,3/16/2061,Comedy,,A,,,
-281,Jungle 2 Jungle,3/7/1997,Comedy,PG,B,John Pasquin,3.334,
-282,Tex,11/19/1982,Drama,,C,,,
-283,Life With Mikey,6/4/1993,Comedy,PG,C,James Lapine,0.6,
-284,Gone Fishin',5/30/1997,Comedy,PG,C,Christopher Cain,1.874,
-285,Rogue One: A Star Wars Story,12/16/2016,Adventure,PG-13,S,Raymond Montemayor,0.6,
-286,The Marrying Man,4/5/1991,Romantic Comedy,R,C,Jerry Rees,1.394,
-287,Bubble Boy,8/24/2001,Comedy,PG-13,D,Blair Hayes,0.6,
-288,Baby: Secret of the Lost Legend,3/22/1985,Adventure,,C,Bill L. Norton,1.519,
-289,The Fox and the Hound,7/10/1981,Comedy,,B,Ted Berman,2.334,4.8773
-290,High Heels and Low Lifes,10/26/2001,,R,D,,,
-291,The Tie That Binds,9/8/1995,Thriller/Suspense,R,D,Wesley Strick,2.414,
-292,John Carter,3/9/2012,Adventure,PG-13,B,Andrew Stanton,6.106,
-293,Blank Check,2/11/1994,Comedy,PG,C,Rupert Wainwright,1.291,
-294,Guardians of the Galaxy,8/1/2014,Adventure,PG-13,A,,,
-295,Star Wars Ep. VII: The Force Awakens,12/18/2015,Adventure,PG-13,S,,,
-296,A Goofy Movie,4/7/1995,Comedy,G,C,Kevin Lima,2.904,5.5325
-297,Hocus Pocus,7/16/1993,Comedy,PG,B,Kenny Ortega,2.553,
-298,Pete’s Dragon,8/12/2016,Adventure,PG,B,David Lowery,2.116,
-299,Night Crossing,2/5/1982,Drama,,D,Delbert Mann,4.082,
-300,Lilo & Stitch,6/21/2002,Adventure,PG,A,Chris Sanders,5.007,8.405181818181818
-301,Metro,1/17/1997,Action,R,C,Thomas Carter,2.447,
-302,National Treasure,11/19/2004,Adventure,PG,A,Jon Turteltaub,3.603,
-303,Shanghai Noon,5/26/2000,Western,PG-13,B,Tom Dey,2.744,
-304,Dangerous Minds,8/11/1995,Drama,R,B,John N. Smith,0.6,
-305,The Distinguished Gentleman,12/4/1992,Comedy,R,B,Jonathan Lynn,2.817,
-306,The Secret World of Arietty,2/17/2012,Adventure,G,C,,,
-307,The Princess Diaries,8/3/2001,Comedy,G,B,Garry Marshall,3.741,
-308,Step Up 3D,8/6/2010,Drama,PG-13,C,Jon M. Chu,1.229,
-309,Underdog,8/3/2007,Adventure,PG,C,Frederik Du Chau,0.744,
-310,Red Rock West,1/28/1994,,R,D,,,
-311,Captain America: Civil War,5/6/2016,Action,PG-13,A,Allan McLeod,1.937,
-312,Mr. Wrong,2/16/1996,Romantic Comedy,PG-13,C,Nick Castle,4.31,
-313,Nixon,12/20/1995,Drama,R,C,Daniel Petrie,1.628,
-314,The Ref,3/9/1994,Comedy,R,C,Ted Demme,2.978,
-315,The Santa Clause 3: The Escape Clause,11/3/2006,Comedy,G,B,Michael Lembeck,2.878,
-316,Ice Princess,3/18/2005,Comedy,G,C,Tim Fywell,1.55,
-317,King Arthur,7/7/2004,Adventure,PG-13,B,Antoine Fuqua,5.21,
-318,Nothing To Lose,7/18/1997,Comedy,R,B,Steve Oedekerk,4.942,
-319,Herbie: Fully Loaded,6/22/2005,Comedy,G,B,Angela Robinson,2.57,
-320,Father of the Bride,12/20/1991,Comedy,PG,B,Charles Shyer,1.545,
-321,You Again,9/24/2010,Comedy,PG,C,Andy Fickman,1.615,
-322,Treasure Planet,11/27/2002,Adventure,PG,C,Ron Clements,2.792,8.453416666666666
-323,The Great Mouse Detective,7/2/1986,Adventure,,C,Ron Clements,2.792,3.923769230769231
-324,Cinderella,3/13/2015,Drama,PG,A,Kenneth Branagh,24.58,3.542566666666666
-325,Frozen,11/22/2013,Adventure,PG,A,Chris Buck,3.751,7.401125
-326,Pirates of the Caribbean: On Stranger…,5/20/2011,Adventure,PG-13,A,Rob Marshall,1.254,
-327,Zokkomon,4/22/2011,Adventure,PG,D,Satyajit Bhatkal,0.6,
-328,Gross Anatomy,10/20/1989,Drama,PG-13,C,Thom Eberhardt,1.296,
-329,The Incredibles,11/5/2004,Adventure,PG,A,,,
-330,Frank McKlusky C.I.,1/1/2002,,,D,,,
-331,Taking Care of Business,8/17/1990,Comedy,R,C,Arthur Hiller,1.354,
-332,Tim Burton's The Nightmare Before Chr…,10/20/2006,Musical,PG,C,,,
-333,Cocktail,7/29/1988,Drama,R,B,Roger Donaldson,2.313,
-334,Gun Shy,2/4/2000,Comedy,R,D,Eric Blakeney,1.024,
-335,Mr. Destiny,10/12/1990,Comedy,PG-13,C,James Orr,1.033,
-336,Herbie Goes to Monte Carlo,6/24/1977,,,B,Vincent McEveety,2.66,
-337,Evita,12/25/1996,Musical,PG,B,Alan Parker,3.261,
-338,Dark Water,7/8/2005,Thriller/Suspense,PG-13,C,Walter Salles,1.708,
-339,Piglet's Big Movie,3/21/2003,Comedy,G,C,Francis Glebas,1.96,
-340,Kazaam,7/17/1996,Comedy,PG,C,Paul Michael Glaser,5.054,
-341,Déjà Vu,11/22/2006,Thriller/Suspense,PG-13,B,Tony Scott,4.126,
-342,Waking Sleeping Beauty,3/26/2010,Documentary,PG,D,,,
-343,The Count of Monte Cristo,1/25/2002,Drama,PG-13,B,Kevin Reynolds,2.162,
-344,The Program,9/24/1993,Action,R,C,David S. Ward,1.53,
-345,When in Rome,1/29/2010,Romantic Comedy,PG-13,C,Mark Steven Johnson,1.984,
-346,Born Yesterday,3/26/1993,Romantic Comedy,PG,C,Luis Mandoki,0.84,
-347,The Alamo,4/9/2004,Western,PG-13,C,John Lee Hancock,7.043,
-348,Mad Love,5/26/1995,Drama,PG-13,C,Antonia Bird,2.057,
-349,Armageddon,7/1/1998,Adventure,PG-13,A,Michael Bay,8.504,
-350,Air Bud,8/1/1997,Comedy,PG,C,Charles Martin Smith,4.671,
-351,Fire Birds,5/24/1990,Action,PG-13,C,David Green,0.6,
-352,The Black Cauldron,7/24/1985,Adventure,,C,Ted Berman,2.334,4.092846153846154
-353,Oz the Great and Powerful,3/8/2013,Adventure,PG,A,Sam Raimi,12.485,
-354,Two Much,3/15/1996,Romantic Comedy,PG-13,D,,,
-355,102 Dalmatians,11/22/2000,Comedy,G,B,,,
-356,The Pacifier,3/4/2005,Comedy,PG,B,Adam Shankman,2.069,
-357,Prom,4/29/2011,Comedy,PG,D,Joe Nussbaum,2.73,
-358,Un indien dans la ville,3/22/1996,Comedy,PG,D,,,
-359,Annapolis,1/27/2006,Drama,PG-13,C,Justin Lin,7.382,
-360,The Country Bears,7/26/2002,Adventure,G,C,Peter Hastings,0.84,11.070749999999999
-361,Planes: Fire and Rescue,7/18/2014,Adventure,PG,C,Roberts Gannaway,2.703,
-362,Tin Men,3/6/1987,Comedy,,C,Barry Levinson,4.33,
-363,Renaissance Man,6/3/1994,Comedy,PG-13,C,Penny Marshall,2.076,
-364,Playing God,10/17/1997,Thriller/Suspense,R,D,Andy Wilson,0.631,
-365,Phenomenon,7/5/1996,Drama,PG,B,Jon Turteltaub,3.603,
-366,Gnomeo and Juliet,2/11/2011,Comedy,G,B,,,
-367,The Color of Money,10/17/1986,Drama,R,B,Martin Scorsese,11.725,
-368,Blackbeard's Ghost,2/8/1968,Comedy,,B,Robert Stevenson,1.531,
-369,Ernest Scared Stupid,10/11/1991,Comedy,PG,C,John R. Cherry III,1.676,
-370,The Emperor's New Groove,12/15/2000,Adventure,G,B,Mark Dindal,1.713,
-371,Double Take,1/12/2001,Action,PG-13,C,George Gallo,3.845,
-372,Rocket Man,10/10/1997,Comedy,PG,C,Stuart Gillard,1.229,
-373,Mulan,6/19/1998,Adventure,G,A,Steve Binder,0.625,
-374,Song of the South,11/12/1946,Adventure,G,S,Wilfred Jackson,1.883,1.3749999999999998
-375,The Black Hole,12/21/1979,,,B,Gary Nelson,1.96,
-376,Raising Helen,5/28/2004,Comedy,PG-13,C,Garry Marshall,3.741,
-377,A Gun in Betty Lou's Handbag,8/21/1992,,PG-13,D,Allan Moyle,1.119,
-378,The Air Up There,1/7/1994,Comedy,PG,C,Paul Michael Glaser,5.054,
-379,Roommates,3/3/1995,Comedy,PG,C,Peter Yates,1.185,
-380,Morning Light,10/17/2008,Documentary,PG,D,,,
-381,Valiant,8/19/2005,Adventure,G,C,,,
-382,Down and Out in Beverly Hills,1/31/1986,Comedy,R,B,Paul Mazursky,1.263,
-383,Tarzan,6/16/1999,Adventure,G,A,Kevin Lima,2.904,7.051399999999999
-384,The Royal Tenenbaums,12/14/2001,Black Comedy,R,B,,,
-385,James and the Giant Peach,4/12/1996,Adventure,PG,C,Henry Selick,0.716,
-386,"Mystery, Alaska",10/1/1999,Comedy,R,D,Jay Roach,4.81,
-387,Last Dance,5/3/1996,Drama,R,D,Bruce Beresford,0.656,
-388,My Science Project,8/9/1985,Comedy,,D,Jonathan R. Betuel,0.6,
-389,Homeward Bound II: Lost in San Franc…,3/8/1996,Adventure,G,C,,,
-390,The Muppets,11/23/2011,Comedy,PG,B,James Bobin,1.478,
-391,Turner & Hooch,7/28/1989,Comedy,PG,B,Roger Spottiswoode,2.476,
-392,Oceans,4/22/2010,Documentary,G,C,,,
-393,It's Pat,8/26/1994,Comedy,,D,Adam Bernstein,2.645,
-394,The Finest Hours,1/29/2016,Thriller/Suspense,PG,C,Craig Gillespie,2.473,
-395,Shoot to Kill,2/12/1988,Action,,C,Roger Spottiswoode,2.476,
-396,Hannah Montana the Movie,4/10/2009,Drama,G,B,Peter Chelsom,0.84,
-397,First Kid,8/30/1996,Comedy,PG,C,David M. Evans,1.22,
-398,Consenting Adults,10/16/1992,Drama,R,C,Alan J. Pakula,3.93,
-399,Dan in Real Life,10/20/2007,Romantic Comedy,PG-13,C,Peter Hedges,1.4,
-400,Sorority Boys,3/22/2002,Comedy,R,D,Wallace Wolodarsky,5.308,
-401,Simon Birch,9/11/1998,Drama,PG,C,Mark Steven Johnson,1.984,
-402,In the Army Now,8/12/1994,Comedy,PG,C,Daniel Petrie Jr.,1.755,
-403,Bad Company,6/7/2002,Action,PG-13,C,Joel Schumacher,3.202,
-404,Wreck-It Ralph,11/2/2012,Adventure,PG,A,Rich Moore,,4.773761904761905
-405,Iron Man 3,5/3/2013,Action,PG-13,A,,,
-406,Cinderella,2/15/1950,Drama,G,S,Hamilton Luske,2.323,3.542566666666666
-407,One Magic Christmas,11/22/1985,Drama,,C,Phillip Borsos,0.828,
-408,Beverly Hills Chihuahua,10/3/2008,Comedy,PG,B,Raja Gosnell,3.865,
-409,WALL-E,6/27/2008,Adventure,G,A,Andrew Stanton,6.106,
-410,Aladdin,11/11/1992,Comedy,G,A,Timothy Forder,0.6,7.428285714285714
-411,Casanova,12/25/2005,Drama,R,D,Lasse Hallström,1.688,
-412,Thor: The Dark World,11/8/2013,Adventure,PG-13,A,,,
-413,Monkey Kingdom,4/17/2015,Documentary,G,D,Alastair Fothergill,1.094,
-414,Ernest Saves Christmas,11/11/1988,Comedy,PG,C,John R. Cherry III,1.676,
-415,Hannah Montana/Miley Cyrus: Best of B…,2/1/2008,Concert/Performance,G,B,,,
-416,Saving Mr. Banks,12/13/2013,Drama,PG-13,B,,,
-417,The Aristocats,4/24/1970,Musical,G,A,Wolfgang Reitherman,,2.8325
-418,Calendar Girls,12/19/2003,Comedy,PG-13,C,,,
-419,Unstrung Heroes,9/15/1995,Drama,PG,D,Diane Keaton,14.524,
-420,Three Fugitives,1/27/1989,Comedy,PG-13,B,Francis Veber,2.023,
-421,Tomorrowland,5/22/2015,Adventure,PG,B,Brad Bird,9.443,
-422,The Village,7/30/2004,Thriller/Suspense,PG-13,B,M. Night Shyamalan,8.849,
-423,"Alexander and the Terrible, Horrible,…",10/10/2014,Comedy,PG,C,Miguel Arteta,2.284,
-424,Arachnophobia,7/18/1990,Thriller/Suspense,PG-13,B,Frank Marshall,3.398,
-425,Lincoln,11/9/2012,Drama,PG-13,B,Steven Spielberg,20.495,
-426,The Horse Whisperer,5/15/1998,Drama,PG-13,B,,,
-427,Muppets Most Wanted,3/21/2014,Comedy,PG,C,James Bobin,1.478,
-428,Fantasia 2000 (IMAX),1/1/2000,Musical,G,B,,,
-429,Spaced Invaders,4/27/1990,Comedy,PG,C,Patrick Read Johnson,1.376,
-430,Just Visiting,4/6/2001,Comedy,PG-13,D,Jean-Marie Poiré,0.991,
-431,Holes,4/18/2003,Drama,PG,B,Andrew Davis,4.503,
-432,The Last Shot,9/24/2004,Comedy,R,D,Jeff Nathanson,2.583,
-433,The Jungle Book,10/18/1967,Musical,Not Rated,S,Wolfgang Reitherman,2.833,
-434,Meet the Robinsons,3/30/2007,Adventure,G,B,Stephen J. Anderson,2.676,5.603875
-435,Dead Poets Society,6/2/1989,Drama,PG,A,Peter Weir,2.235,
-436,Avengers: Age of Ultron,5/1/2015,Action,PG-13,A,,,
-437,Man of the House,3/3/1995,Comedy,PG,B,James Orr,1.033,
-438,Bears,4/18/2014,Documentary,G,D,Alastair Fothergill,1.094,
-439,Passed Away,4/24/1992,,PG-13,D,Charlie Peters,0.6,
-440,ESPN's Ultimate X - The Movie,5/10/2002,Documentary,PG,D,,,
-441,Atlantis: The Lost Empire,6/8/2001,Adventure,PG,B,Gary Trousdale,3.308,6.005153846153846
-442,Ernest Goes to Camp,5/22/1987,Comedy,,C,John R. Cherry III,1.676,
-443,Teacher's Pet: The Movie,1/16/2004,Comedy,PG,D,,,
-444,Spy Hard,5/24/1996,Comedy,PG-13,C,Rick Friedberg,0.656,
-445,Snow Dogs,1/18/2002,Comedy,PG,B,Brian Levant,2.073,
-446,Frankenweenie,10/5/2012,Comedy,PG,C,Tim Burton,10.14,
-447,Tuck Everlasting,10/11/2002,Drama,PG,C,Jay Russell,0.667,
-448,Hauru no ugoku shiro,6/10/2005,Adventure,PG,D,,,
-449,Gedo Senki (Tales from Earthsea),8/13/2010,Adventure,PG-13,D,,,
-450,Return to Oz,6/21/1985,Adventure,,C,Walter Murch,3.113,
-451,Disney's A Christmas Carol,11/6/2009,Drama,PG,B,Robert Zemeckis,8.964,
-452,Prefontaine,1/24/1997,Drama,PG-13,D,Steve James,0.6,
-453,Beaches,12/21/1988,Drama,PG-13,B,Garry Marshall,3.741,
-454,101 Dalmatians,1/25/1961,Comedy,G,S,Hamilton Luske,2.323,
-455,The Last Song,3/31/2010,Drama,PG,C,Julie Anne Robinson,1.543,
-456,Father Hood,8/27/1993,,PG-13,D,Darrell James Roodt,0.6,
-457,Encino Man,5/22/1992,Comedy,PG,B,Les Mayfield,2.115,
-458,Sweet Home Alabama,9/27/2002,Comedy,PG-13,B,Andy Tennant,1.327,
-459,Play it to the Bone,12/24/1999,Comedy,R,D,Ron Shelton,2.801,
-460,The Odd Life of Timothy Green,8/15/2012,Drama,PG,C,Peter Hedges,1.4,
-461,Honey I Blew Up the Kid,7/17/1992,Comedy,PG,B,Randal Kleiser,1.4,
-462,Hercules,6/13/1997,Adventure,G,B,Ron Clements,2.792,5.87965909090909
+movie_title,release_date,MovieSuccessLevel,director,director_pop,ActorsAvg,_is_G,_is_Not Rated,_is_PG,_is_PG-13,_is_R,_is_Action,_is_Adventure,_is_Black Comedy,_is_Comedy,_is_Concert/Performance,_is_Documentary,_is_Drama,_is_Horror,_is_Musical,_is_Romantic Comedy,_is_Thriller/Suspense,_is_Western,IsAnimation
+Recess: School's Out,2001.126027,C,Chuck Sheetz,0.98,5.509169281,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+D2: The Mighty Ducks,1994.232877,B,Sam Weisman,1.52,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Home on the Range,2004.252055,C,Will Finn,0.635,8.2235,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Young Black Stallion,2003.972603,D,Simon Wincer,6.723,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+What's Love Got to Do With It,1993.435616,B,Brian Gibson,0.6,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Lady and the Tramp,1955.471233,S,Hamilton Luske,3.314126411,1.507272727,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Corky Romano,2001.772603,C,Rob Pritts,0.6,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Waterboy,1998.838356,A,Frank Coraci,3.888,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Captain America: The Winter Soldier,2014.257534,A,Anthony Russo,2.693,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Pirates of the Caribbean: Dead ManÃ¢ÂÂÃ¢ÂÂ¦,2006.512329,S,Gore Verbinski,4.843,5.509169281,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Ladder 49,2004.742466,B,Jay Russell,0.667,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Coyote Ugly,2000.586301,B,David McNally,0.6,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Sixth Man,1997.241096,C,Randall Miller,0.84,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Dick Tracy,1990.452055,A,Warren Beatty,5.574,5.509169281,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Sister Act 2 Back in the Habit,1993.931507,B,Bill Duke,6.304,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+DuckTales: The Movie - Treasure of thÃ¢ÂÂ¦,1990.583562,C,,3.314126411,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Blame it on the Bellboy,1992.180822,D,Mark Herman,0.961,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Hunchback of Notre Dame,1996.468493,B,Gary Trousdale,3.308,5.404181818,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Ernest Goes to Jail,1990.263014,C,John R. Cherry III,1.676,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Ant-Man,2015.539726,B,Peyton Reed,1.928,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+The Shaggy Dog,2006.191781,B,Brian Robbins,1.338,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Life Aquatic with Steve Zissou,2004.931507,C,Wes Anderson,8.151,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Bridge to Terabithia,2007.126027,B,GÃÂ¡bor CsupÃÂ³,1.191,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Beauty and the Beast,1991.857534,A,Gary Trousdale,3.314126411,5.509169281,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Miami Rhapsody,1995.073973,D,David Frankel,0.785,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+A Bug's Life,1998.876712,A,John Lasseter,4.693,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+3 Men and a Little Lady,1990.879452,B,Emile Ardolino,4.922,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Puppet Masters,1994.79726,D,Stuart Orme,0.6,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Signs,2002.580822,A,M. Night Shyamalan,8.849,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Dead Presidents,1995.750685,C,Albert Hughes,3.681,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"McFarland, USA",2015.136986,C,Niki Caro,1.835,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+George Of The Jungle,1997.536986,B,Sam Weisman,1.52,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Bound by Honor,1993.290411,D,Taylor Hackford,2.461,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Avengers,2012.339726,S,Joss Whedon,5.923,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ten Things I Hate About You,1999.249315,C,Gil Junger,3.76,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Earth,2009.306849,C,Kevin Nolting,0.828,5.509169281,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Hello Again,1987.838356,C,Frank Perry,0.6,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+When a Man Loves a Woman,1994.326027,B,Luis Mandoki,0.84,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Unbreakable,2000.882192,B,M. Night Shyamalan,8.849,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+3 Men and a Baby,1987.890411,A,Leonard Nimoy,6.062,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+X Games 3D: The Movie,2009.632877,D,Steven Lawrence,0.6,5.509169281,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Cars 2,2011.476712,A,John Lasseter,4.693,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Princess Diaries 2: Royal Engagement,2004.605479,B,Gidion Phillips,0.6,5.509169281,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+The Jungle Book 2,2003.120548,C,Steve Trenbirth,0.6,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Aspen Extreme,1993.060274,D,Patrick Hasburgh,1.4,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Noises Off...,1992.219178,D,Peter Bogdanovich,5.723,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+He Got Game,1998.331507,C,Spike Lee,5.116,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Bringing Down the House,2003.183562,B,Adam Shankman,2.069,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Bon Voyage!,1962.375342,B,Jean-Paul Rappeneau,0.84,5.509169281,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Doctor Strange,2016.832877,A,Scott Derrickson,3.253,5.509169281,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Flubber,1997.893151,B,Les Mayfield,2.115,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Roving Mars,2006.073973,D,George Butler,0.917,5.509169281,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Captain Ron,1992.706849,C,Thom Eberhardt,1.296,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Shadow Conspiracy,1997.084932,D,George P. Cosmatos,2.841,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Good Morning Vietnam,1987.967123,A,Barry Levinson,4.33,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Babes in Toyland,1961.942466,B,Charley Rogers,1.62,5.509169281,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+An Innocent Man,1989.756164,C,Peter Yates,1.185,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Summer of Sam,1999.49863,C,Spike Lee,5.116,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Good Dinosaur,2015.890411,B,Peter Sohn,3.161,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Angels in the Outfield,1994.534247,B,William Dear,1.535,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Tough Guys,1986.747945,C,Jeff Kanew,2.131,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Something Wicked This Way Comes,1983.326027,D,Jack Clayton,1.176,5.509169281,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+The Rocketeer,1991.468493,B,Joe Johnston,5.45,5.509169281,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Stakeout,1987.589041,B,John Badham,2.835,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+National Treasure 2: Book of Secrets,2007.961644,A,Jon Turteltaub,3.603,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Terminal Velocity,1994.720548,C,Deran Sarafian,2.799,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Apocalypto,2006.926027,C,Mel Gibson,27.288,5.509169281,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Invincible,2006.643836,B,Ericson Core,1.565,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+25th Hour,2002.956164,D,Spike Lee,5.116,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Mighty Joe Young,1998.972603,B,Ron Underwood,1.948,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Deceived,1991.731507,C,Damian Harris,0.6,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Never Cry Wolf,1983.758904,B,Carroll Ballard,0.828,5.509169281,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+G-Force,2009.558904,B,Hoyt Yeatman,2.63,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Feast of July,1995.775342,D,Christopher Menaul,0.94,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Lookout,2007.246575,D,Scott Frank,8.517,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Cool Runnings,1993.742466,B,Jon Turteltaub,3.603,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Alice Through the Looking Glass,2016.40274,B,James Bobin,1.478,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Devil and Max Devlin,1981.00274,C,Steven Hilliard Stern,1.105,5.509169281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Chronicles of Narnia: Prince Caspian,2008.372603,B,Andrew Adamson,4.804,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Insider,1999.835616,C,Michael Mann,7.666,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Camp Nowhere,1994.646575,C,Jonathan Prince,1.4,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Rock,1996.430137,A,Gary J. Tunnicliffe,1.411,5.509169281,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Green Card,1990.972603,C,Peter Weir,2.235,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Real Steel,2011.758904,B,Shawn Levy,27.03,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+A Kid in King Arthur's Court,1995.605479,C,Michael Gottlieb,1.62,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Last Flight of NoahÃ¢ÂÂs Ark,1980.479452,C,Charles Jarrott,0.608,5.509169281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+African Cats,2011.306849,D,Alastair Fothergill,1.094,5.509169281,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Toy Story 3D Double Feature,2009.745205,C,,3.314126411,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Into the Woods,2014.972603,B,Rob Marshall,1.254,5.509169281,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Finding Nemo,2003.410959,S,Andrew Stanton,6.106,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Good Mother,1988.832877,D,Leonard Nimoy,6.062,5.509169281,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Hundred-Foot Journey,2014.59726,C,Lasse HallstrÃÂ¶m,1.688,5.509169281,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Pearl Harbor,2001.39726,A,Michael Rosenfeld,0.608,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Pirates of the Caribbean: At WorldÃ¢ÂÂÃ¢ÂÂ¦,2007.394521,A,Gore Verbinski,4.843,5.509169281,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Color of Night,1994.627397,C,Richard Rush,0.6,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Romy and Michele's High School Reunion,1997.315068,C,David Mirkin,1.149,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Cheetah,1989.624658,D,Jeff Blyth,0.6,5.509169281,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Jack,1996.6,B,Francis Ford Coppola,9.576,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Monsters University,2013.468493,A,Dan Scanlon,2.265,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Fifth Estate,2013.789041,D,Bill Condon,4.642,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Before and After,1996.145205,D,Barbet Schroeder,0.716,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Moonlight Mile,2002.731507,D,Brad Silberling,2.286,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+A Stranger Among Us,1992.539726,C,Sidney Lumet,2.183,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Lizzie McGuire Movie,2003.334247,C,Jim Fall,1.193,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Krippendorf's Tribe,1998.156164,D,Todd Holland,3.026,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+crazy/beautiful,2001.490411,C,John Stockwell,4.363,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Adventures in Babysitting,1987.50137,B,Chris Columbus,4.321,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Game Plan,2007.717808,B,Andy Fickman,1.615,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Splash,1984.189041,B,Ron Howard,5.634,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Who Framed Roger Rabbit?,1988.471233,A,Robert Zemeckis,8.964,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Light Between Oceans,2016.663014,D,Derek Cianfrance,0.98,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Guardian,2006.736986,B,Mark J. Doddy,0.608,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+The Sword in the Stone,1963.972603,B,Wolfgang Reitherman,2.833,3.9452,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Mr. Holland's Opus,1995.983562,B,Stephen Herek,3.184,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Rescuers Down Under,1990.865753,C,Mike Gabriel,1.22,5.30075,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+The Preacher's Wife,1996.939726,B,Penny Marshall,2.076,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Sarafina!,1992.706849,D,Darrell James Roodt,0.6,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Trenchcoat,1983.194521,D,Michael Tuchner,1.4,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Confessions of a Teenage Drama Queen,2004.136986,C,Sara Sugarman,2.624,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Around the World in 80 Days,2004.454795,C,Frank Coraci,3.888,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Blaze,1989.939726,C,Ron Shelton,2.801,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Toy Story,1995.882192,A,John Lasseter,3.782,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Prince of Persia: Sands of Time,2010.405479,B,Mike Newell,3.899,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Eddie,1996.413699,C,Steve Rash,1.631,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+White Fang 2: Myth of the White Wolf,1994.287671,D,Ken Olin,4.221,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+White Squall,1996.087671,D,Ridley Scott,5.031,5.509169281,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Invisible,2007.320548,C,David S. Goyer,7.974,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Guilty as Sin,1993.421918,C,Sidney Lumet,2.183,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Operation Dumbo Drop,1995.569863,C,Simon Wincer,6.723,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Ghosts of the Abyss,2003.276712,C,James Cameron,7.333,5.509169281,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Scenes from a Mall,1991.142466,D,Paul Mazursky,1.263,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The BFG,2016.49589,C,Steven Spielberg,18.765,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Tron,1982.517808,B,Steven Lisberger,1.4,5.509169281,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Firelight,1998.668493,D,William Nicholson,1.982,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Delivery Man,2013.882192,C,Ken Scott,0.98,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+New York Stories,1989.167123,C,Francis Ford Coppola,9.576,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Disorganized Crime,1989.284932,D,Jim Kouf,1.295,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Tom and Huck,1995.964384,C,Peter Hewitt,1.253,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Keeping the Faith,2000.284932,C,Edward Norton,11.573,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Grosse Pointe Blank,1997.276712,C,George Armitage,0.6,5.509169281,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Indian Summer,1993.309589,C,Mike Binder,2.396,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Princess and the Frog,2009.890411,B,Ron Clements,3.314126411,4.827277778,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Billy Bathgate,1991.824658,C,Robert Benton,1.844,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+3 Ninjas Kick Back,1994.345205,C,Charles T. Kanganis,1.216,5.509169281,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+My Boyfriend's Back,1993.591781,D,Bob Balaban,9.484,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Goal! The Dream Begins,2006.361644,D,Danny Cannon,2.196,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Country,1984.736986,C,Peter Wellington,0.6,5.509169281,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Big Trouble,2002.260274,D,Barry Sonnenfeld,5.493,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+People Like Us,2012.490411,D,Alex Kurtzman,6.597,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Mars Needs Moms,2011.194521,C,Simon Wells,2.885,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Angie,1994.175342,D,Martha Coolidge,1.576,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Deuce Bigalow: Male Gigolo,1999.931507,B,Mike Mitchell,3.233,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Veronica Guerin,2003.786301,D,Joel Schumacher,3.688,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Max Keeble's Big Move,2001.753425,C,Tim Hill,3.627,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Scarlet Letter,1995.775342,C,Roland JoffÃÂ©,0.777,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+D3: The Mighty Ducks,1996.750685,C,Rob Lieberman,0.762,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Up,2009.408219,A,Pete Docter,10.161,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Alive,1993.041096,B,Frank Marshall,3.398,5.509169281,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Can't Buy Me Love,1987.613699,C,Steve Rash,1.631,5.509169281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+The Hoax,2007.263014,D,Lasse HallstrÃ¶m,3.308,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Fantasia,1940.857534,S,David Hand,2.951,6.019166667,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Crimson Tide,1995.361644,B,Tony Scott,4.126,5.509169281,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ransom,1996.843836,A,Ron Howard,5.634,5.509169281,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Pretty Woman,1990.227397,A,Garry Marshall,3.741,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Inspector Gadget,1999.556164,B,David Kellogg,0.829,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Winnie the Pooh,2011.534247,C,Stephen J. Anderson,3.314126411,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Tigger Movie,2000.112329,B,Jun Falkenstein,1.068,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Heavy Weights,1995.128767,C,Steven Brill,3.574,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+What About Bob?,1991.375342,B,Frank Oz,6.202,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Condorman,1981.594521,D,Charles Jarrott,1.38,5.509169281,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+The Haunted Mansion,2003.893151,B,Rob Minkoff,2.269,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Hitchhiker's Guide to the Galaxy,2005.326027,C,Garth Jennings,5.73,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Bedknobs and Broomsticks,1971.758904,B,Robert Stevenson,1.531,2.1795,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Pooh's Heffalump Movie,2005.112329,C,Frank Nissen,1.231,2.14,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Open Range,2003.616438,B,Kevin Costner,19.452,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+D.O.A.,1988.213699,C,Annabel Jankel,0.84,5.509169281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Meet the Deedles,1998.238356,D,Steve Boyum,0.949,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+A Beautiful Planet,2016.326027,D,Toni Myers,0.6,5.509169281,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Sister Act,1992.408219,A,Emile Ardolino,4.922,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Strange Magic,2015.063014,D,Gary Rydstrom,1.836,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Many Adventures of Winnie the Pooh,1977.194521,D,Wolfgang Reitherman,2.833,5.509169281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quiz Show,1994.69589,C,Robert Redford,9.124,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+While You Were Sleeping,1995.30411,B,Jon Turteltaub,3.603,5.509169281,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Bedtime Stories,2008.972603,B,Adam Shankman,2.069,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"The Chronicles of Narnia: The Lion, tÃ¢ÂÂ¦",2005.928767,A,,3.314126411,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Instinct,1999.421918,C,Jon Turteltaub,3.603,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Step Up,2006.605479,B,Anne Fletcher,3.496,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+G.I. Jane,1997.635616,B,Ridley Scott,5.031,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Oscar,1991.317808,C,John Landis,1.564,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Parent Trap,1998.572603,B,Nancy Meyers,3.765,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Primeval,2007.032877,D,Michael Katleman,2.332,5.509169281,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Lone Ranger,2013.49863,B,Gore Verbinski,4.843,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Monsters, Inc.",2001.827397,A,Pete Docter,10.161,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Reign of Fire,2002.134247,C,Rob Bowman,2.52,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Running Brave,1983.832877,D,Donald Shebib,0.6,5.509169281,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Dinosaur,2000.380822,A,Ralph Zondag,0.656,5.481,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Rushmore,1998.934247,C,Wes Anderson,8.151,5.509169281,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Freaky Friday,1977.057534,B,Mark Waters,2.779,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The 13th Warrior,1999.649315,C,John McTiernan,4.741,5.509169281,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Brave,2012.471233,A,Brenda Chapman,2.269,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Eight Below,2006.128767,B,Frank Marshall,3.398,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Gake no ue no Ponyo,2009.613699,D,Hayao Miyazaki,11.849,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Queen of Katwe,2016.720548,D,Mira Nair,1.96,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Straight Talk,1992.254795,C,Barnet Kellman,0.6,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Holy Man,1998.764384,C,Stephen Herek,3.184,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Sorcerer's Apprentice,2010.531507,C,Jon Turteltaub,3.603,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Stella,1990.087671,C,John Erman,0.98,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+An American Werewolf in Paris,1997.972603,C,Anthony Waller,2.358,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+The Mighty Ducks,1992.745205,B,Stephen Herek,3.184,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Tall Tale,1995.230137,D,Jeremiah S. Chechik,2.888,5.509169281,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Tangled,2010.887671,A,Byron Howard,2.596,9.636285714,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Ed Wood,1994.739726,D,Tim Burton,10.14,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Jerky Boys,1995.090411,D,James Melkonian,1.553,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Rich Man's Wife,1996.693151,D,Amy Holden Jones,2.407,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"20,000 Leagues Under the Sea",1954.967123,S,Richard Fleischer,2.99,5.509169281,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Super Mario Bros.,1993.405479,C,Annabel Jankel,0.84,5.509169281,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+The Proposal,2009.463014,B,Anne Fletcher,3.496,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Race to Witch Mountain,2009.2,B,Andy Fickman,1.615,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Adventures of Huck Finn,1993.252055,C,Stephen Sommers,1.724,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Jefferson in Paris,1995.249315,D,James Ivory,3.745,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Jungle Book,2016.287671,A,Vitaliy Versace,0.759,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Sky High,2005.572603,B,Mike Mitchell,3.233,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Toy Story 2,1999.873973,A,John Lasseter,3.782,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Rescuers,1977.471233,B,Wolfgang Reitherman,2.833,5.509169281,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Remember the Titans,2000.736986,B,Boaz Yakin,7.813,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+A Lot Like Love,2005.306849,C,Nigel Cole,1.646,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3 Ninjas,1992.594521,C,Jon Turteltaub,3.603,5.509169281,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Flight of the Navigator,1986.575342,C,Randal Kleiser,1.4,5.509169281,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+America's Heart and Soul,2004.49863,D,Louis Schwartsberg,0.6,5.509169281,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Swing Vote,2008.578082,D,Joshua Michael Stern,1.4,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Straight Story,1999.780822,D,David Lynch,6.755,5.509169281,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Kid,2000.512329,B,Jon Turteltaub,3.603,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Enchanted,2007.879452,B,Kevin Lima,2.904,14.14441667,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Zootopia,2016.175342,A,Byron Howard,3.314126411,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+I'll Be Home For Christmas,1998.857534,C,Arlene Sanford,0.734,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The War at Home,1996.876712,D,Emilio Estevez,6.855,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Peter Pan: Return to Neverland,2002.123288,B,Robin Budd,0.6,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Ratatouille,2007.490411,A,Brad Bird,9.443,5.509169281,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Secretariat,2010.761644,C,Randall Wallace,2.475,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Medicine Man,1992.10137,B,John McTiernan,4.741,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+A Thousand Acres,1997.709589,D,Jocelyn Moorhouse,1.652,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Mission to Mars,2000.191781,B,Brian De Palma,3.709,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Brother Bear,2003.805479,B,Aaron Blaise,1.62,6.289571429,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Snow White and the Seven Dwarfs,1937.961644,S,David Hand,2.951,1.99975,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Toy Story 3,2010.460274,A,Lee Unkrich,3.458,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Miracle,2004.09863,B,Gavin O'Connor,2.842,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+My Favorite Martian,1999.115068,C,Donald Petrie,3.564,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Benji the Hunted,1987.424658,C,Joe Camp,0.648,5.509169281,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+A Far Off Place,1993.19726,C,Mikael Salomon,1.22,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Old Dogs,2009.890411,C,Walt Becker,1.239,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Alice in Wonderland,2010.178082,A,Tim Burton,10.14,2.908,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+The Little Mermaid,1989.863014,A,Ron Clements,2.792,5.514225,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Stick It,2006.323288,C,Jessica Bendinger,0.6,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Funny Bones,1995.249315,D,Peter Chelsom,0.84,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Cars,2006.435616,A,John Lasseter,4.693,5.509169281,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Bicentennial Man,1999.950685,B,Chris Columbus,4.321,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Chimpanzee,2012.30137,C,Alastair Fothergill,1.094,5.509169281,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+The Apple Dumpling Gang,1975.49589,B,Norman Tokar,1.4,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Other Sister,1999.153425,C,Garry Marshall,3.741,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+A Simple Twist of Fate,1994.663014,D,Gillies MacKinnon,1.052,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Where the Heart Is,1990.145205,D,John Boorman,2.004,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Kaze Tachinu,2013.843836,D,Mitsuo Wakasugi,0.6,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Off Beat,1986.276712,D,Michael Dinner,1.67,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Greatest Game Ever Played,2005.739726,C,Bill Paxton,13.989,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Three Musketeers,1993.854795,B,Stephen Herek,3.184,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+A Civil Action,1998.972603,B,Steven Zaillian,2.173,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Walt and El Grupo,2009.684932,D,Theodore Thomas,1.96,5.509169281,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Powder,1995.813699,C,Victor Salva,5.386,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1492: Conquest of Paradise,1992.764384,D,Ridley Scott,5.031,5.509169281,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Cemetery Club,1993.090411,D,Bill Duke,6.304,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Stay Alive,2006.230137,C,William Brent Bell,2.941,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+That Darn Cat,1997.120548,C,Bob Spiers,1.096,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Muppet Christmas Carol,1992.934247,C,Brian Henson,1.117,5.509169281,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Step Up 2 the Streets,2008.120548,C,Jon M. Chu,1.229,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Fantasia 2000 (Theatrical Release),2000.454795,D,,3.314126411,5.509169281,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+The Santa Clause 2,2002.824658,A,Michael Lembeck,3.779,5.509169281,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Recruit,2003.084932,B,Roger Donaldson,2.313,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Money for Nothing,1993.684932,D,RamÃÂ³n MenÃÂ©ndez,0.6,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Bad Company,1995.054795,D,Damian Harris,0.6,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+I Love Trouble,1994.490411,C,Charles Shyer,1.545,5.509169281,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+The Absent Minded Professor,1961.208219,A,Robert Stevenson,2.243,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Jungle 2 Jungle,1997.183562,B,John Pasquin,3.334,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Tex,1982.873973,C,Tim Hunter,1.294,5.509169281,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Life With Mikey,1993.421918,C,James Lapine,0.6,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Gone Fishin',1997.410959,C,Christopher Cain,1.874,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Rogue One: A Star Wars Story,2016.947945,S,Raymond Montemayor,0.6,5.509169281,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Marrying Man,1991.260274,C,Jerry Rees,1.394,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Bubble Boy,2001.641096,D,Blair Hayes,0.6,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Baby: Secret of the Lost Legend,1985.224658,C,Bill L. Norton,1.519,5.509169281,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Fox and the Hound,1981.520548,B,Ted Berman,2.334,4.8773,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+High Heels and Low Lifes,2001.810959,D,Mel Smith,5.677,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Tie That Binds,1995.679452,D,Wesley Strick,2.414,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+John Carter,2012.189041,B,Andrew Stanton,6.106,5.509169281,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Blank Check,1994.112329,C,Rupert Wainwright,1.291,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Guardians of the Galaxy,2014.578082,A,James Gunn,10.478,5.509169281,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Star Wars Ep. VII: The Force Awakens,2015.953425,S,,3.314126411,5.509169281,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+A Goofy Movie,1995.265753,C,Kevin Lima,2.904,5.5325,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Hocus Pocus,1993.536986,B,Kenny Ortega,2.553,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+PeteÃ¢ÂÂs Dragon,2016.608219,B,David Lowery,2.116,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Night Crossing,1982.09589,D,Delbert Mann,4.082,5.509169281,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Lilo & Stitch,2002.468493,A,Chris Sanders,5.007,8.405181818,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Metro,1997.046575,C,Thomas Carter,2.447,5.509169281,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+National Treasure,2004.873973,A,Jon Turteltaub,3.603,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Shanghai Noon,2000.4,B,Tom Dey,2.744,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Dangerous Minds,1995.605479,B,John N. Smith,0.6,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Distinguished Gentleman,1992.915068,B,Jonathan Lynn,2.817,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Secret World of Arietty,2012.128767,C,,3.314126411,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Princess Diaries,2001.583562,B,Garry Marshall,3.741,5.509169281,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Step Up 3D,2010.591781,C,Jon M. Chu,1.229,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Underdog,2007.583562,C,Frederik Du Chau,0.744,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Red Rock West,1994.076712,D,John Dahl,5.084,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Captain America: Civil War,2016.345205,A,Allan McLeod,1.937,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Mr. Wrong,1996.126027,C,Nick Castle,4.31,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Nixon,1995.958904,C,Daniel Petrie,1.628,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Ref,1994.189041,C,Ted Demme,2.978,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Santa Clause 3: The Escape Clause,2006.830137,B,Michael Lembeck,2.878,5.509169281,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Ice Princess,2005.213699,C,Tim Fywell,1.55,5.509169281,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+King Arthur,2004.512329,B,Antoine Fuqua,5.21,5.509169281,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Nothing To Lose,1997.542466,B,Steve Oedekerk,4.942,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Herbie: Fully Loaded,2005.471233,B,Angela Robinson,2.57,5.509169281,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Father of the Bride,1991.958904,B,Charles Shyer,1.545,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+You Again,2010.723288,C,Andy Fickman,1.615,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Treasure Planet,2002.89589,C,Ron Clements,2.792,8.453416667,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+The Great Mouse Detective,1986.49863,C,Ron Clements,2.792,3.923769231,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Cinderella,2015.2,A,Kenneth Branagh,24.58,3.542566667,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Frozen,2013.882192,A,Chris Buck,3.751,7.401125,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Pirates of the Caribbean: On StrangerÃ¢ÂÂ¦,2011.383562,A,Rob Marshall,1.254,5.509169281,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Zokkomon,2011.306849,D,Satyajit Bhatkal,0.6,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Gross Anatomy,1989.794521,C,Thom Eberhardt,1.296,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Incredibles,2004.835616,A,Brad Bird,9.566,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Frank McKlusky C.I.,2002.00274,D,Arlene Sanford,1.106,5.509169281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Taking Care of Business,1990.621918,C,Arthur Hiller,1.354,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Tim Burton's The Nightmare Before ChrÃ¢ÂÂ¦,2006.794521,C,,3.314126411,5.509169281,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Cocktail,1988.572603,B,Roger Donaldson,2.313,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Gun Shy,2000.093151,D,Eric Blakeney,1.024,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Mr. Destiny,1990.772603,C,James Orr,1.033,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Herbie Goes to Monte Carlo,1977.476712,B,Vincent McEveety,2.66,5.509169281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Evita,1996.972603,B,Alan Parker,3.261,5.509169281,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Dark Water,2005.515068,C,Walter Salles,1.708,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Piglet's Big Movie,2003.221918,C,Francis Glebas,1.96,5.509169281,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Kazaam,1996.539726,C,Paul Michael Glaser,5.054,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+DÃÂ©jÃÂ  Vu,2006.882192,B,Tony Scott,4.126,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Waking Sleeping Beauty,2010.235616,D,Don Hahn,0.84,5.509169281,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+The Count of Monte Cristo,2002.068493,B,Kevin Reynolds,2.162,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Program,1993.723288,C,David S. Ward,1.53,5.509169281,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+When in Rome,2010.079452,C,Mark Steven Johnson,1.984,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Born Yesterday,1993.235616,C,Luis Mandoki,0.84,5.509169281,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+The Alamo,2004.271233,C,John Lee Hancock,7.043,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Mad Love,1995.4,C,Antonia Bird,2.057,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Armageddon,1998.49589,A,Michael Bay,8.504,5.509169281,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Air Bud,1997.578082,C,Charles Martin Smith,4.671,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Fire Birds,1990.394521,C,David Green,0.6,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+The Black Cauldron,1985.558904,C,Ted Berman,2.334,4.092846154,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Oz the Great and Powerful,2013.186301,A,Sam Raimi,12.485,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Two Much,1996.205479,D,Fernando Trueba,0.6,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+102 Dalmatians,2000.882192,B,Kevin Lima,1.243,5.509169281,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Pacifier,2005.175342,B,Adam Shankman,2.069,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Prom,2011.326027,D,Joe Nussbaum,2.73,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Un indien dans la ville,1996.224658,D,HervÃ© Palud,0.6,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Annapolis,2006.073973,C,Justin Lin,7.382,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Country Bears,2002.564384,C,Peter Hastings,0.84,11.07075,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Planes: Fire and Rescue,2014.542466,C,Roberts Gannaway,2.703,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Tin Men,1987.180822,C,Barry Levinson,4.33,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Renaissance Man,1994.419178,C,Penny Marshall,2.076,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Playing God,1997.786301,D,Andy Wilson,0.631,5.509169281,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Phenomenon,1996.506849,B,Jon Turteltaub,3.603,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Gnomeo and Juliet,2011.112329,B,Kelly Asbury,3.314,5.509169281,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Color of Money,1986.786301,B,Martin Scorsese,11.725,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Blackbeard's Ghost,1968.10411,B,Robert Stevenson,1.531,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Ernest Scared Stupid,1991.769863,C,John R. Cherry III,1.676,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Emperor's New Groove,2000.945205,B,Mark Dindal,1.713,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Double Take,2001.032877,C,George Gallo,3.845,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Rocket Man,1997.767123,C,Stuart Gillard,1.229,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Mulan,1998.463014,A,Steve Binder,0.625,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Song of the South,1946.854795,S,Wilfred Jackson,1.883,1.375,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+The Black Hole,1979.961644,B,Gary Nelson,1.96,5.509169281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Raising Helen,2004.405479,C,Garry Marshall,3.741,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+A Gun in Betty Lou's Handbag,1992.632877,D,Allan Moyle,1.119,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Air Up There,1994.019178,C,Paul Michael Glaser,5.054,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Roommates,1995.172603,C,Peter Yates,1.185,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Morning Light,2008.786301,D,Mark Monroe,1.4,5.509169281,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Valiant,2005.627397,C,Gary Chapman,0.615,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Down and Out in Beverly Hills,1986.084932,B,Paul Mazursky,1.263,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Tarzan,1999.454795,A,Kevin Lima,2.904,7.0514,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+The Royal Tenenbaums,2001.942466,B,Wes Anderson,8.694,5.509169281,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+James and the Giant Peach,1996.279452,C,Henry Selick,0.716,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Mystery, Alaska",1999.742466,D,Jay Roach,4.81,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Last Dance,1996.336986,D,Bruce Beresford,0.656,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+My Science Project,1985.6,D,Jonathan R. Betuel,0.6,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Homeward Bound II: Lost in San FrancÃ¢ÂÂ¦,1996.186301,C,,3.314126411,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Muppets,2011.884932,B,James Bobin,1.478,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Turner & Hooch,1989.569863,B,Roger Spottiswoode,2.476,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Oceans,2010.306849,C,Jacques Perrin,2.485,5.509169281,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+It's Pat,1994.646575,D,Adam Bernstein,2.645,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Finest Hours,2016.079452,C,Craig Gillespie,2.473,5.509169281,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Shoot to Kill,1988.115068,C,Roger Spottiswoode,2.476,5.509169281,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Hannah Montana the Movie,2009.273973,B,Peter Chelsom,0.84,5.509169281,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+First Kid,1996.657534,C,David M. Evans,1.22,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Consenting Adults,1992.783562,C,Alan J. Pakula,3.93,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Dan in Real Life,2007.794521,C,Peter Hedges,1.4,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Sorority Boys,2002.224658,D,Wallace Wolodarsky,5.308,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Simon Birch,1998.687671,C,Mark Steven Johnson,1.984,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+In the Army Now,1994.608219,C,Daniel Petrie Jr.,1.755,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Bad Company,2002.430137,C,Joel Schumacher,3.202,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Wreck-It Ralph,2012.827397,A,Rich Moore,3.314126411,4.773761905,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Iron Man 3,2013.336986,A,Shane Black,6.832,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Cinderella,1950.123288,S,Hamilton Luske,2.323,3.542566667,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+One Magic Christmas,1985.882192,C,Phillip Borsos,0.828,5.509169281,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Beverly Hills Chihuahua,2008.747945,B,Raja Gosnell,3.865,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WALL-E,2008.484932,A,Andrew Stanton,6.106,5.509169281,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Aladdin,1992.852055,A,Timothy Forder,0.6,7.428285714,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Casanova,2005.972603,D,Lasse HallstrÃÂ¶m,1.688,5.509169281,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Thor: The Dark World,2013.843836,A,Alan Taylor,2.007,5.509169281,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Monkey Kingdom,2015.293151,D,Alastair Fothergill,1.094,5.509169281,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Ernest Saves Christmas,1988.852055,C,John R. Cherry III,1.676,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Hannah Montana/Miley Cyrus: Best of BÃ¢ÂÂ¦,2008.084932,B,,3.314126411,5.509169281,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Saving Mr. Banks,2013.939726,B,John Lee Hancock,5.916,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Aristocats,1970.312329,A,Wolfgang Reitherman,3.314126411,2.8325,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Calendar Girls,2003.956164,C,Nigel Cole,1.708,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Unstrung Heroes,1995.69863,D,Diane Keaton,14.524,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Three Fugitives,1989.073973,B,Francis Veber,2.023,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Tomorrowland,2015.389041,B,Brad Bird,9.443,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Village,2004.575342,B,M. Night Shyamalan,8.849,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Alexander and the Terrible, Horrible,Ã¢ÂÂ¦",2014.767123,C,Miguel Arteta,2.284,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Arachnophobia,1990.542466,B,Frank Marshall,3.398,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Lincoln,2012.846575,B,Steven Spielberg,20.495,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Horse Whisperer,1998.369863,B,Robert Redford,9.124,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Muppets Most Wanted,2014.221918,C,James Bobin,1.478,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Fantasia 2000 (IMAX),2000.00274,B,,3.314126411,5.509169281,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Spaced Invaders,1990.320548,C,Patrick Read Johnson,1.376,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Just Visiting,2001.263014,D,Jean-Marie PoirÃÂ©,0.991,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Holes,2003.29589,B,Andrew Davis,4.503,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Last Shot,2004.723288,D,Jeff Nathanson,2.583,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Jungle Book,1967.789041,S,Wolfgang Reitherman,2.833,5.509169281,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Meet the Robinsons,2007.246575,B,Stephen J. Anderson,2.676,5.603875,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Dead Poets Society,1989.416438,A,Peter Weir,2.235,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Avengers: Age of Ultron,2015.331507,A,Joss Whedon,5.923,5.509169281,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Man of the House,1995.172603,B,James Orr,1.033,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Bears,2014.29589,D,Alastair Fothergill,1.094,5.509169281,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Passed Away,1992.312329,D,Charlie Peters,0.6,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ESPN's Ultimate X - The Movie,2002.356164,D,,3.314126411,5.509169281,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Atlantis: The Lost Empire,2001.432877,B,Gary Trousdale,3.308,6.005153846,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Ernest Goes to Camp,1987.389041,C,John R. Cherry III,1.676,5.509169281,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Teacher's Pet: The Movie,2004.043836,D,,3.314126411,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Spy Hard,1996.394521,C,Rick Friedberg,0.656,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Snow Dogs,2002.049315,B,Brian Levant,2.073,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Frankenweenie,2012.753425,C,Tim Burton,10.14,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Tuck Everlasting,2002.769863,C,Jay Russell,0.667,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Hauru no ugoku shiro,2005.438356,D,Hayao Miyazaki,11.849,5.509169281,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Gedo Senki (Tales from Earthsea),2010.610959,D,,3.314126411,5.509169281,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Return to Oz,1985.468493,C,Walter Murch,3.113,5.509169281,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Disney's A Christmas Carol,2009.838356,B,Robert Zemeckis,8.964,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Prefontaine,1997.065753,D,Steve James,0.6,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Beaches,1988.961644,B,Garry Marshall,3.741,5.509169281,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+101 Dalmatians,1961.068493,S,Hamilton Luske,2.323,5.509169281,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Last Song,2010.249315,C,Julie Anne Robinson,1.543,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Father Hood,1993.649315,D,Darrell James Roodt,0.6,5.509169281,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Encino Man,1992.389041,B,Les Mayfield,2.115,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sweet Home Alabama,2002.731507,B,Andy Tennant,1.327,5.509169281,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Play it to the Bone,1999.969863,D,Ron Shelton,2.801,5.509169281,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Odd Life of Timothy Green,2012.616438,C,Peter Hedges,1.4,5.509169281,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Honey I Blew Up the Kid,1992.539726,B,Randal Kleiser,1.4,5.509169281,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Hercules,1997.446575,B,Ron Clements,2.792,5.879659091,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
