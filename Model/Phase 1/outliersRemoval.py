@@ -1,6 +1,4 @@
-import numpy as np
 import pandas as pd
-import seaborn as sns
 
 movies = pd.read_csv('datasets/movies-revenue.csv')
 q_low = movies.quantile(0.25)

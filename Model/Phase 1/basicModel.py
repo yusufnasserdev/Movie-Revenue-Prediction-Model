@@ -22,6 +22,7 @@ sns.heatmap(top_corr, annot=True)
 plt.show()
 top_feature = top_feature.delete(top_feature.get_loc('revenue'))
 X = X[top_feature]
+
 X_train, X_test, Y_train, Y_test = train_test_split(X, Y, random_state=20, test_size=0.2, shuffle=True)
 
 poly_features = PolynomialFeatures(degree=3)
