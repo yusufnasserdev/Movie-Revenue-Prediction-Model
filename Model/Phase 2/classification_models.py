@@ -27,13 +27,20 @@ X = pd.DataFrame(X, columns=movies.keys())
 
 """
 # Top Features Extraction
+
+# Getting Correlation
 corr = X.corr()
-print(corr)
+
+# Extracting top feature via correlation
 top_feature = corr.index[abs(corr['MovieSuccessLevel']) > 0.2]
+
+# Plotting Correlation
 plt.subplots(figsize=(12, 8))
 top_corr = X[top_feature].corr()
 sns.heatmap(top_corr, annot=True)
 plt.show()
+
+# Deleting other features
 top_feature = top_feature.delete(top_feature.get_loc('MovieSuccessLevel'))
 X = X[top_feature]
 """

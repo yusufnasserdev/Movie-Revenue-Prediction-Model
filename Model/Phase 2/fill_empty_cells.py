@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 
 movies = pd.read_csv('datasets/movies-revenue-classification.csv')
