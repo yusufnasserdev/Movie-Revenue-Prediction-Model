@@ -1,3 +1,4 @@
+import pickle
 import time
 import warnings
 
@@ -142,6 +143,7 @@ print('Mean Square Error', metrics.mean_squared_error(Y_test, p), '\n')
 clf = tree.DecisionTreeClassifier(criterion="entropy", max_depth=3)
 t0 = time.time()
 clf = clf.fit(X_train, Y_train)
+pickle.dump(clf, open('DT.pkl', 'wb'))
 print("Training time of DecisionTree_model model:", time.time() - t0)
 t0 = time.time()
 p = clf.predict(X_test)
