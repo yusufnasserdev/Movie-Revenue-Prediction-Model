@@ -1,4 +1,4 @@
-title,release_date,revenue,director,CharactersCount,DirectorPop,IsAnimation,ActorsAvg,_is_G,_is_Not Rated,_is_PG,_is_PG-13,_is_R,_is_Action,_is_Adventure,_is_Black Comedy,_is_Comedy,_is_Concert/Performance,_is_Documentary,_is_Drama,_is_Horror,_is_Musical,_is_Romantic Comedy,_is_Thriller/Suspense,_is_Western
+movie_title,release_date,revenue,director,CharactersCount,DirectorPop,IsAnimation,ActorsAvg,_is_G,_is_Not Rated,_is_PG,_is_PG-13,_is_R,_is_Action,_is_Adventure,_is_Black Comedy,_is_Comedy,_is_Concert/Performance,_is_Documentary,_is_Drama,_is_Horror,_is_Musical,_is_Romantic Comedy,_is_Thriller/Suspense,_is_Western
 Recess: School's Out,2001.126027,54656124,Chuck Sheetz,12.342105263157896,1.62,0,6.778963749000002,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 D2: The Mighty Ducks,1994.232877,94226333,Sam Weisman,12.342105263157896,1.579,0,6.778963749000002,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 Home on the Range,2004.252055,67910166,Will Finn,16.0,2.32,1,7.8548125,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
