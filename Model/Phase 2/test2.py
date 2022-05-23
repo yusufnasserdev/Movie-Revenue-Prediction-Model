@@ -99,7 +99,7 @@ X.drop(['MovieSuccessLevel'], axis=1, inplace=True)
 scaler = MinMaxScaler()
 X = scaler.fit_transform(X)
 
-pickled_model = pickle.load(open('DT.pkl', 'rb'))
+pickled_model = pickle.load(open('linearKernel.pkl', 'rb'))
 
 start_test = time.time()
 prediction = pickled_model.predict(X)
