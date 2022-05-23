@@ -13,7 +13,7 @@ import pickle
 import time
 
 from sklearn import metrics
-from sklearn.preprocessing import MinMaxScaler
+from sklearn.preprocessing import MinMaxScaler, PolynomialFeatures
 
 warnings.filterwarnings("ignore")
 
@@ -100,6 +100,10 @@ X = pd.DataFrame(X, columns=['release_date', 'IsAnimation', '_is_G', '_is_Musica
 scaler = MinMaxScaler()
 X = scaler.fit_transform(X)
 
+# Polynomial Model
+poly_features = PolynomialFeatures(degree=3)
+X = poly_features.fit_transform(X)
+
 pickled_model = pickle.load(open('poly_regression.pkl', 'rb'))
 print(pickled_model)
 
@@ -107,7 +111,6 @@ start_test = time.time()
 prediction = pickled_model.predict(X)
 end_test = time.time()
 
-print("Accuracy linear:", metrics.accuracy_score(Y, prediction))
 print('R2 Score', metrics.r2_score(Y, prediction))
 print('Mean Square Error', metrics.mean_squared_error(Y, prediction))
 print("Actual time for Testing", end_test - start_test)
