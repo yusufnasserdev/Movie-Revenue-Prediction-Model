@@ -1,5 +1,6 @@
+import time
 import warnings
-
+import category_encoders as ce
 import numpy as np
 import pandas as pd
 from sklearn import svm
@@ -64,59 +65,81 @@ m_degree = 7
 # ---------------------------------------------------------- #
 
 # Poly Model
+t0 = time.time()
 poly_model = svm.SVC(kernel='poly', degree=m_degree, C=C).fit(X_train, Y_train)
-
-print("Accuracy Poly:", metrics.accuracy_score(Y_test, poly_model.predict(X_test)))
-print('R2 Score', metrics.r2_score(Y_test, poly_model.predict(X_test)))
-print('Mean Square Error', metrics.mean_squared_error(Y_test, poly_model.predict(X_test)), '\n')
+print("Training time of poly_svc model:",time.time() - t0)
+t0 = time.time()
+p=poly_model.predict(X_test)
+print("Testing time of poly_svc model:",time.time() - t0)
+print("Accuracy Poly:", metrics.accuracy_score(Y_test,p ))
+print('R2 Score', metrics.r2_score(Y_test, p))
+print('Mean Square Error', metrics.mean_squared_error(Y_test, p), '\n')
 
 # ---------------------------------------------------------- #
 
 # Linear Model
+t0 = time.time()
 linear_svc = svm.LinearSVC(C=C).fit(X_train, Y_train)
+print("Training time of linear_svc model:",time.time() - t0)
 # s = OneVsOneClassifier(lin_svc).fit()
-
-print("Accuracy linear:", metrics.accuracy_score(Y_test, linear_svc.predict(X_test)))
-print('R2 Score', metrics.r2_score(Y_test, linear_svc.predict(X_test)))
-print('Mean Square Error', metrics.mean_squared_error(Y_test, linear_svc.predict(X_test)), '\n')
+t0 = time.time()
+p=linear_svc.predict(X_test)
+print("Testing time of linear_svc model:",time.time() - t0)
+print("Accuracy linear:",metrics.accuracy_score(Y_test, p))
+print('R2 Score', metrics.r2_score(Y_test, p))
+print('Mean Square Error', metrics.mean_squared_error(Y_test, p), '\n')
 
 # ---------------------------------------------------------- #
 
 # Rbf Model
+t0 = time.time()
 rbf_svc = svm.SVC(kernel='rbf', C=C).fit(X_train, Y_train)
+print("Training time of rbf_svc model:",time.time() - t0)
 # s = OneVsOneClassifier(svc).fit(X_train, Y_train)
-
-print("Accuracy rbf:", metrics.accuracy_score(Y_test, rbf_svc.predict(X_test)))
-print('R2 Score', metrics.r2_score(Y_test, rbf_svc.predict(X_test)))
-print('Mean Square Error', metrics.mean_squared_error(Y_test, rbf_svc.predict(X_test)), '\n')
+t0 = time.time()
+p=rbf_svc.predict(X_test)
+print("Testing time of rbf_svc model:",time.time() - t0)
+print("Accuracy rbf:", metrics.accuracy_score(Y_test, p))
+print('R2 Score', metrics.r2_score(Y_test, p))
+print('Mean Square Error', metrics.mean_squared_error(Y_test, p), '\n')
 
 # ---------------------------------------------------------- #
 
 # Linear Kernel Model
+t0 = time.time()
 linear_kernel_svc = svm.SVC(kernel='linear', C=C).fit(X_train, Y_train)
-
-linear_kernel_prediction = linear_kernel_svc.predict(X_test)
-
-print("Accuracy Linear kernel:", metrics.accuracy_score(Y_test, linear_kernel_prediction))
-print('R2 Score', metrics.r2_score(Y_test, linear_kernel_prediction))
-print('Mean Square Error', metrics.mean_squared_error(Y_test, linear_kernel_prediction), '\n')
+print("Training time of linear_Kernel_svc model:",time.time() - t0)
+t0 = time.time()
+p=linear_kernel_svc.predict(X_test)
+print("Testing time of linear_Kernel_svc model:",time.time() - t0)
+print("Accuracy Linear kernel:", metrics.accuracy_score(Y_test, p))
+print('R2 Score', metrics.r2_score(Y_test, p))
+print('Mean Square Error', metrics.mean_squared_error(Y_test, p), '\n')
 
 # ---------------------------------------------------------- #
 
 # Logistic Regression Model
+t0 = time.time()
 logistic_regression_model = LogisticRegression(random_state=0).fit(X_train, Y_train)
-
-print("Accuracy Logistic Regression:", metrics.accuracy_score(Y_test, logistic_regression_model.predict(X_test)))
-print('R2 Score', metrics.r2_score(Y_test, logistic_regression_model.predict(X_test)))
-print('Mean Square Error', metrics.mean_squared_error(Y_test, logistic_regression_model.predict(X_test)), '\n')
+print("Training time of logistic_regression_model model:",time.time() - t0)
+t0 = time.time()
+p=logistic_regression_model.predict(X_test)
+print("Testing time of logistic_regression_model model:",time.time() - t0)
+print("Accuracy Logistic Regression:", metrics.accuracy_score(Y_test, p))
+print('R2 Score', metrics.r2_score(Y_test, p))
+print('Mean Square Error', metrics.mean_squared_error(Y_test, p), '\n')
 
 # ---------------------------------------------------------- #
 
 # Decision Tree Model
 
 clf = tree.DecisionTreeClassifier()
+t0 = time.time()
 clf = clf.fit(X_train, Y_train)
-
-print("Accuracy Decision Tree:", metrics.accuracy_score(Y_test, poly_model.predict(X_test)))
-print('R2 Score', metrics.r2_score(Y_test, poly_model.predict(X_test)))
-print('Mean Square Error', metrics.mean_squared_error(Y_test, poly_model.predict(X_test)), '\n')
+print("Training time of DecisionTree_model model:",time.time() - t0)
+t0 = time.time()
+p=clf.predict(X_test)
+print("Testing time of DecisionTree_model model:",time.time() - t0)
+print("Accuracy Decision Tree:", metrics.accuracy_score(Y_test,p ))
+print('R2 Score', metrics.r2_score(Y_test, p))
+print('Mean Square Error', metrics.mean_squared_error(Y_test, p), '\n')
