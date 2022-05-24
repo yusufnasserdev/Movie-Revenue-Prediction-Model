@@ -97,15 +97,15 @@ X.drop(['MovieSuccessLevel'], axis=1, inplace=True)
 
 # Feature Scaling
 scaler = MinMaxScaler()
-X = scaler.fit_transform(X)
+dirs.drop(['movie_title', 'director', 'ActorsAvg', 'MovieSuccessLevel'], axis=1, inplace=True)
+scaler.fit(dirs)
+X = scaler.transform(X)
 
-pickled_model = pickle.load(open('linearKernel.pkl', 'rb'))
+pickled_model = pickle.load(open('DT.pkl', 'rb'))
 
 start_test = time.time()
 prediction = pickled_model.predict(X)
 end_test = time.time()
 
 print("Accuracy Decision Tree:", metrics.accuracy_score(Y, prediction))
-print('R2 Score', metrics.r2_score(Y, prediction))
-print('Mean Square Error', metrics.mean_squared_error(Y, prediction))
 print("Actual time for Testing", end_test - start_test)

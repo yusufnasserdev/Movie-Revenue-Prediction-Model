@@ -78,9 +78,7 @@ print("Training time of poly_svc model:", time.time() - t0)
 t0 = time.time()
 p = poly_model.predict(X_test)
 print("Testing time of poly_svc model:", time.time() - t0)
-print("Accuracy Poly:", metrics.accuracy_score(Y_test, p))
-print('R2 Score', metrics.r2_score(Y_test, p))
-print('Mean Square Error', metrics.mean_squared_error(Y_test, p), '\n')
+print("Accuracy Poly:", metrics.accuracy_score(Y_test, p), '\n')
 
 # ---------------------------------------------------------- #
 
@@ -92,9 +90,7 @@ print("Training time of linear_svc model:", time.time() - t0)
 t0 = time.time()
 p = linear_svc.predict(X_test)
 print("Testing time of linear_svc model:", time.time() - t0)
-print("Accuracy linear:", metrics.accuracy_score(Y_test, p))
-print('R2 Score', metrics.r2_score(Y_test, p))
-print('Mean Square Error', metrics.mean_squared_error(Y_test, p), '\n')
+print("Accuracy linear:", metrics.accuracy_score(Y_test, p), '\n')
 
 # ---------------------------------------------------------- #
 
@@ -106,9 +102,7 @@ print("Training time of rbf_svc model:", time.time() - t0)
 t0 = time.time()
 p = rbf_svc.predict(X_test)
 print("Testing time of rbf_svc model:", time.time() - t0)
-print("Accuracy rbf:", metrics.accuracy_score(Y_test, p))
-print('R2 Score', metrics.r2_score(Y_test, p))
-print('Mean Square Error', metrics.mean_squared_error(Y_test, p), '\n')
+print("Accuracy rbf:", metrics.accuracy_score(Y_test, p), '\n')
 
 # ---------------------------------------------------------- #
 
@@ -120,9 +114,7 @@ print("Training time of linear_Kernel_svc model:", time.time() - t0)
 t0 = time.time()
 p = linear_kernel_svc.predict(X_test)
 print("Testing time of linear_Kernel_svc model:", time.time() - t0)
-print("Accuracy Linear kernel:", metrics.accuracy_score(Y_test, p))
-print('R2 Score', metrics.r2_score(Y_test, p))
-print('Mean Square Error', metrics.mean_squared_error(Y_test, p), '\n')
+print("Accuracy Linear kernel:", metrics.accuracy_score(Y_test, p), '\n')
 
 # ---------------------------------------------------------- #
 
@@ -134,9 +126,7 @@ print("Training time of logistic_regression_model model:", time.time() - t0)
 t0 = time.time()
 p = logistic_regression_model.predict(X_test)
 print("Testing time of logistic_regression_model model:", time.time() - t0)
-print("Accuracy Logistic Regression:", metrics.accuracy_score(Y_test, p))
-print('R2 Score', metrics.r2_score(Y_test, p))
-print('Mean Square Error', metrics.mean_squared_error(Y_test, p), '\n')
+print("Accuracy Logistic Regression:", metrics.accuracy_score(Y_test, p), '\n')
 
 # ---------------------------------------------------------- #
 
@@ -150,6 +140,4 @@ print("Training time of DecisionTree_model model:", time.time() - t0)
 t0 = time.time()
 p = clf.predict(X_test)
 print("Testing time of DecisionTree_model model:", time.time() - t0)
-print("Accuracy Decision Tree:", metrics.accuracy_score(Y_test, p))
-print('R2 Score', metrics.r2_score(Y_test, p))
-print('Mean Square Error', metrics.mean_squared_error(Y_test, p), '\n')
+print("Accuracy Decision Tree:", metrics.accuracy_score(Y_test, p), '\n')

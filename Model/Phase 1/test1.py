@@ -95,17 +95,18 @@ Y = X['revenue']  # Label
 
 # Preparing Data
 X = pd.DataFrame(X, columns=['release_date', 'IsAnimation', '_is_G', '_is_Musical'])
+dirs = pd.DataFrame(dirs, columns=['release_date', 'IsAnimation', '_is_G', '_is_Musical'])
 
 # Feature Scaling
 scaler = MinMaxScaler()
-X = scaler.fit_transform(X)
+scaler.fit(dirs)
+X = scaler.transform(X)
 
 # Polynomial Model
 poly_features = PolynomialFeatures(degree=3)
 X = poly_features.fit_transform(X)
 
 pickled_model = pickle.load(open('poly_regression.pkl', 'rb'))
-print(pickled_model)
 
 start_test = time.time()
 prediction = pickled_model.predict(X)
