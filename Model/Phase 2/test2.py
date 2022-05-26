@@ -55,10 +55,10 @@ for i, mov in movies.iterrows():
             break
 
 # Filling the missing data with the mean value
-director_mean_value = movies['director_pop'].mean()
+director_mean_value = dirs['director_pop'].mean()
 movies['director_pop'].fillna(value=director_mean_value, inplace=True)
 
-Actors_mean_value = movies['ActorsAvg'].mean()
+Actors_mean_value = dirs['ActorsAvg'].mean()
 movies['ActorsAvg'].fillna(value=Actors_mean_value, inplace=True)
 
 # Preprocessing Voice Actors
@@ -94,6 +94,7 @@ X['MovieSuccessLevel'] = Y
 
 # Dropping the label from the features dataframe
 X.drop(['MovieSuccessLevel'], axis=1, inplace=True)
+X.fillna(0, inplace=True)
 
 # Feature Scaling
 scaler = MinMaxScaler()
@@ -101,7 +102,7 @@ dirs.drop(['movie_title', 'director', 'ActorsAvg', 'MovieSuccessLevel'], axis=1,
 scaler.fit(dirs)
 X = scaler.transform(X)
 
-pickled_model = pickle.load(open('DT.pkl', 'rb'))
+pickled_model = pickle.load(open('linearKernel.pkl', 'rb'))
 
 start_test = time.time()
 prediction = pickled_model.predict(X)

@@ -58,10 +58,10 @@ for i, mov in movies.iterrows():
             break
 
 # Filling the missing data with the mean value
-director_mean_value = movies['DirectorPop'].mean()
+director_mean_value = dirs['DirectorPop'].mean()
 movies['DirectorPop'].fillna(value=director_mean_value, inplace=True)
 
-Actors_mean_value = movies['ActorsAvg'].mean()
+Actors_mean_value = dirs['ActorsAvg'].mean()
 movies['ActorsAvg'].fillna(value=Actors_mean_value, inplace=True)
 
 # Preprocessing Voice Actors
@@ -81,7 +81,7 @@ for i, mov in movies.iterrows():
         movies.at[i, 'CharactersCount'] = 0
         movies.at[i, 'IsAnimation'] = 0
 
-CharactersCount_mean_value = movies['CharactersCount'].mean()
+CharactersCount_mean_value = dirs['CharactersCount'].mean()
 movies['CharactersCount'].fillna(value=CharactersCount_mean_value, inplace=True)
 
 # Preprocessing genre and MPAA_rating
