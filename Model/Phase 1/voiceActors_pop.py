@@ -6,7 +6,7 @@ from tmdbv3api import TMDb
 
 # Creating a base class instance from the api library
 tmdb = TMDb()
-tmdb.api_key = 'b5ebbeb68bbdb72e376724a36cf7dc0f'
+tmdb.api_key = 'INSERT API KEY HERE'
 tmdb.language = 'en'
 tmdb.debug = True
 
