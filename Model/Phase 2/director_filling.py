@@ -1,7 +1,9 @@
+import pandas as pd
+import keys
+
 from tmdbv3api import TMDb
 from tmdbv3api import Movie
 from dateutil.parser import parse
-import pandas as pd
 
 # Using the TMDb to fill out the missing director from the original dataset
 
@@ -10,7 +12,7 @@ import pandas as pd
 
 # Creating a base class instance from the api library
 tmdb = TMDb()
-tmdb.api_key = 'INSERT API KEY HERE'
+tmdb.api_key = keys.tmdb_key
 tmdb.language = 'en'
 tmdb.debug = True
 

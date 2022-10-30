@@ -1,12 +1,15 @@
 import pandas as pd
 import numpy as np
+import keys
 
 from tmdbv3api import Person
 from tmdbv3api import TMDb
 
+
+
 # Creating a base class instance from the api library
 tmdb = TMDb()
-tmdb.api_key = 'INSERT API KEY HERE'
+tmdb.api_key = keys.tmdb_key
 tmdb.language = 'en'
 tmdb.debug = True
 
