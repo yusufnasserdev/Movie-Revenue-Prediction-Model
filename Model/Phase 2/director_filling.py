@@ -22,7 +22,8 @@ movie = Movie()
 movies = pd.read_csv('datasets/movies-revenue-classification.csv')
 
 for i, mov in movies.iterrows():
-    if type(mov['director']) == float:  # Float is the default datatype for an empty cell    search = movie.search(mov['movie_title'])  # Search by the movie title
+    # Float is the default datatype for an empty cell
+    if type(mov['director']) == float:
         search = movie.search(mov['movie_title'])  # Search by the movie title
         for res in search:
             try:

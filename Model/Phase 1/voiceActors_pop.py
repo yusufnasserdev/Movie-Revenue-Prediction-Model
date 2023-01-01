@@ -5,8 +5,6 @@ import keys
 from tmdbv3api import Person
 from tmdbv3api import TMDb
 
-
-
 # Creating a base class instance from the api library
 tmdb = TMDb()
 tmdb.api_key = keys.tmdb_key
@@ -22,10 +20,10 @@ actors['ActorPop'] = np.nan
 
 for i, mov in actors.iterrows():
     if str(mov['voice-actor']).find(';') != -1:
-        l = mov['voice-actor'].split(';')
+        movie_details = mov['voice-actor'].split(';')
         avg = 0.0
         count = 0
-        for j in l:
+        for j in movie_details:
             search = person.search(j)  # Search by the movie title
             try:
                 avg += search[0]['popularity']
