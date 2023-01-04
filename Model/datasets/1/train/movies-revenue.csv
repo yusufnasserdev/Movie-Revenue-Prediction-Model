@@ -1,4 +1,4 @@
-movie_title,release_date,genre,MPAA_rating,revenue
+name,release_date,genre,MPAA_rating,revenue
 Recess: School's Out,16-Feb-01,Comedy,G,"$54,656,124 "
 D2: The Mighty Ducks,25-Mar-94,Comedy,PG,"$94,226,333 "
 Home on the Range,2-Apr-04,Comedy,PG,"$67,910,166 "
