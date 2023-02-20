@@ -1,4 +1,4 @@
-movie_title,release_date,genre,MPAA_rating,MovieSuccessLevel
+name,release_date,genre,MPAA_rating,MovieSuccessLevel
 Recess: School's Out,16-Feb-01,Comedy,G,C
 D2: The Mighty Ducks,25-Mar-94,Comedy,PG,B
 Home on the Range,2-Apr-04,Comedy,PG,C
