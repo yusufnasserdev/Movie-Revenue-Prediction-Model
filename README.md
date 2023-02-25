@@ -1,5 +1,5 @@
 # movie-revenue-model
-A machine learning powered model used to predict movies revenue and classify their success
+An ML powered model used to predict movies revenue and classify their success
 
 ## Preprocessing
 
