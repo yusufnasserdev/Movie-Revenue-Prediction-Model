@@ -16,13 +16,24 @@ An ML powered model used to predict movies revenue and classify their success
   - Transformed it to a scalar by converting the days to a fraction of a year.
 
 - Movie revenue:
-  - Used [`cpi`](https://palewi.re/docs/cpi/) library to adjust the movie revenue to inflation using the release date. 
+  - Used [`cpi`](https://palewi.re/docs/cpi/) library to adjust the movie revenue to inflation using the release date year. 
+
+- Budget:
+  - Used [`TMDB API`](https://developers.themoviedb.org/3/getting-started/introduction) to **add movie budget**.
+  - Used [`cpi`](https://palewi.re/docs/cpi/) library to adjust the movie budget to inflation using the release date year. 
+  
+- Runtime:
+  - Used [`TMDB API`](https://developers.themoviedb.org/3/getting-started/introduction) to **add movie runtime**.
+  
+- Genres, Ratings:
+  - Used get_dummies to transform them into binary columns.
 
 
 ## Libraries Used
 
 - pandas
 - numpy
+- tmdbv3api
 - cpi
 - skcikit-learn
 - matplotlib
