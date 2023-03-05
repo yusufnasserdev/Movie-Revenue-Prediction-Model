@@ -26,7 +26,7 @@ An ML powered model used to predict movies revenue and classify their success
   - Used [`TMDB API`](https://developers.themoviedb.org/3/getting-started/introduction) to **add movie runtime**.
   
 - Genres, Ratings:
-  - Used get_dummies to transform them into binary columns.
+  - Used `get_dummies` to transform them into binary columns.
 
 
 ## Libraries Used
